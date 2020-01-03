@@ -1,0 +1,70 @@
+﻿<!DOCTYPE html>
+<html dir="ltr" lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>SG2 Global Calendar</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://sg2calendar.github.io/">
+    <meta property="og:site_name" content="SG2 Global Calendar">
+    <!--    <meta property="og:title" content="SG2 Global Calendar">
+    <meta property="og:description" content="Next Event is OX Event! At 19:00 GMT">-->
+    <meta property="og:image" content="https://i.imgur.com/FzT3sax.png">
+    <link type="application/json+oembed" href="https://gist.githubusercontent.com/SG2Calendar/c41c0fd4d74e36a3aa470f1801a4e46a/raw/06433a8b07f97d52e3ffbe7c2b3f9dc38fce3bb1/oembed.json" />
+
+    <link href="./SG2 Global_files/style.css" rel="stylesheet" type="text/css">
+    <link href="./SG2 Global_files/style-2.css" rel="stylesheet" type="text/css">
+    <link rel="shortcut icon" type="image/png" href="./images/favicon.ico" />
+    <link href="calendar.css" title="calendar-css" rel="stylesheet" />
+    <script type="text/javascript" src="data.js"></script>
+    <script type="text/javascript" src="calendar.js"></script>
+
+    <meta name="theme-color" content="#990000">
+</head>
+<body onload="CalendarInit();">
+    <div id="pageContainer" class="pageContainer">
+        <section id="main" class="main" role="main">
+            <div class="layoutBoundary">
+                <div id="content" class="content">
+                    <div id="calendar">
+                        <div id="calendar-hero" class="calendar-container border">
+                            <div id="calendar-prev" class="calendar-side" onclick="previousMonth()">Previous Month</div>
+                            <div id="calendar-next" class="calendar-side" onclick="nextMonth()">Next Month</div>
+                            <img id="calendar-hero-img" />
+                            <span id="calendar-monthTitle"></span>
+                        </div>
+                        <div id="calendar-week" class="calendar-container">
+                            <div class="day border"><span>Sunday</span></div>
+                            <div class="day border"><span>Monday</span></div>
+                            <div class="day border"><span>Tuesday</span></div>
+                            <div class="day border"><span>Wednesday</span></div>
+                            <div class="day border"><span>Thrusday</span></div>
+                            <div class="day border"><span>Friday</span></div>
+                            <div class="day border"><span>Saturday</span></div>
+                        </div>
+                        <div id="calendar-panel">
+                        </div>
+                    </div>
+                </div>
+
+                <aside id="calendar-aside" class="sidebar boxesSidebarRight">
+                    <h2 class="boxTitle">Next Events!</h2>
+                    <div class="boxContainer">
+                        <section class="box">
+                            <div class="boxContent">
+                                <ul id="calendar-sidebar" class="sidebarItemList">
+                                </ul>
+                            </div>
+                        </section>
+                    </div>
+                </aside>
+
+
+            </div>
+
+        </section>
+    </div>
+
+    <div id="hiddenContainer" class="hidden"></div>
+</body>
+</html>

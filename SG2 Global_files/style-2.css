@@ -1,0 +1,687 @@
+body, h1, h2, h3, h4, h5, h6, html, ul {
+    margin: 0;
+    padding: 0;
+    border: 0
+}
+
+img {
+    border: 0
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 400;
+    font-size: 100%
+}
+
+ul {
+    list-style: none
+}
+
+html {
+    box-sizing: border-box
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+    min-width: 0
+}
+
+html {
+    -webkit-text-size-adjust: 100%
+}
+
+@-webkit-keyframes wcfSpinner {
+    to {
+        -webkit-transform: rotate(360deg)
+    }
+}
+
+@keyframes wcfSpinner {
+    to {
+        transform: rotate(360deg)
+    }
+}
+
+@-webkit-keyframes spin {
+    0% {
+        -webkit-transform: rotate(0)
+    }
+
+    100% {
+        -webkit-transform: rotate(359deg)
+    }
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0)
+    }
+
+    100% {
+        transform: rotate(359deg)
+    }
+}
+
+@keyframes fa-bell-ring {
+    0% {
+        transform: rotate(-15deg)
+    }
+
+    2% {
+        transform: rotate(15deg)
+    }
+
+    4% {
+        transform: rotate(-18deg)
+    }
+
+    6% {
+        transform: rotate(18deg)
+    }
+
+    8% {
+        transform: rotate(-22deg)
+    }
+
+    10% {
+        transform: rotate(22deg)
+    }
+
+    12% {
+        transform: rotate(-18deg)
+    }
+
+    14% {
+        transform: rotate(18deg)
+    }
+
+    16% {
+        transform: rotate(-12deg)
+    }
+
+    18% {
+        transform: rotate(12deg)
+    }
+
+    100%,20% {
+        transform: rotate(0)
+    }
+}
+
+.box {
+    box-sizing: border-box
+}
+
+.boxTitle {
+    font-weight: 400;
+    line-height: 1.28
+}
+
+@media screen and (min-width:769px),print {
+    .boxTitle {
+        font-size: 18px
+    }
+}
+
+@media screen and (max-width:768px) {
+    .boxTitle {
+        font-size: 18px
+    }
+}
+
+.boxTitle + .boxContent {
+    margin-top: 20px
+}
+
+.boxContent + .boxContent {
+    margin-top: 20px
+}
+
+.boxContent + .boxTitle {
+    margin-top: 30px
+}
+
+.boxesSidebarRight {
+    color: rgba(255,255,255,1)
+}
+
+    .boxesSidebarRight a {
+        color: #ff824a
+    }
+
+        .boxesSidebarRight a:hover {
+            color: #ff824a
+        }
+
+@media screen and (min-width:545px) and (max-width:768px) {
+    .boxesSidebarRight > .boxContainer {
+        -webkit-columns: 2;
+        -moz-columns: 2;
+        columns: 2
+    }
+}
+
+@media screen and (min-width:769px) and (max-width:1024px) {
+    .boxesSidebarRight > .boxContainer {
+        -webkit-columns: 3;
+        -moz-columns: 3;
+        columns: 3
+    }
+}
+
+@media screen and (min-width:545px) and (max-width:1024px) {
+    .boxesSidebarRight > .boxContainer {
+        margin-bottom: -30px;
+        -webkit-column-gap: 30px;
+        -moz-column-gap: 30px;
+        column-gap: 30px
+    }
+
+        .boxesSidebarRight > .boxContainer > .box {
+            overflow: hidden;
+            background-clip: padding-box;
+            border-bottom: 30px solid transparent;
+            /*display: block;
+            margin: 0 !important;
+            width: 100%;
+            -webkit-column-break-inside: avoid;
+            page-break-inside: avoid;
+            break-inside: avoid*/
+        }
+}
+
+.boxesSidebarRight .boxTitle {
+    color: rgba(241,181,66,1)
+}
+
+    .boxesSidebarRight .boxTitle a {
+        color: rgba(241,181,66,1)
+    }
+
+        .boxesSidebarRight .boxTitle a:hover {
+            color: rgba(241,181,66,1)
+        }
+
+.boxesSidebarRight .box:not(:first-child) {
+    margin-top: 30px
+}
+
+@media screen and (min-width:769px),print {
+    @-moz-document url-prefix() {
+        .flexibleCategoryList:not(.flexibleCategoryListDisabled) > li {
+            display: block;
+            overflow: hidden
+        }
+    }
+}
+
+.section {
+    margin-top: 40px
+}
+
+    .section > :first-child {
+        margin-top: 0
+    }
+
+    .section .section {
+        margin-top: 30px
+    }
+
+        .section .section:first-child {
+            margin-top: 20px
+        }
+
+.layoutBoundary {
+    margin: 0 auto
+}
+
+@media screen and (max-width:1024px) {
+    .layoutBoundary {
+        padding: 0 10px;
+        width: 100%
+    }
+}
+
+.box16 {
+    display: flex
+}
+
+    .box16 > :first-child:not(:last-child) {
+        flex: 0 0 auto;
+        margin-right: 5px
+    }
+
+    .box16 > :last-child {
+        flex: 1 1 auto;
+        overflow: hidden
+    }
+
+.box24 {
+    display: flex
+}
+
+    .box24 > :first-child:not(:last-child) {
+        flex: 0 0 auto;
+        margin-right: 8px
+    }
+
+    .box24 > :last-child {
+        flex: 1 1 auto;
+        overflow: hidden
+    }
+
+.box32 {
+    display: flex
+}
+
+    .box32 > :first-child:not(:last-child) {
+        flex: 0 0 auto;
+        margin-right: 10px
+    }
+
+    .box32 > :last-child {
+        flex: 1 1 auto;
+        overflow: hidden
+    }
+
+.box48 {
+    display: flex
+}
+
+    .box48 > :first-child:not(:last-child) {
+        flex: 0 0 auto;
+        margin-right: 12px
+    }
+
+    .box48 > :last-child {
+        flex: 1 1 auto;
+        overflow: hidden
+    }
+
+.box64 {
+    display: flex
+}
+
+    .box64 > :first-child:not(:last-child) {
+        flex: 0 0 auto;
+        margin-right: 15px
+    }
+
+    .box64 > :last-child {
+        flex: 1 1 auto;
+        overflow: hidden
+    }
+
+.box96 {
+    display: flex
+}
+
+    .box96 > :first-child:not(:last-child) {
+        flex: 0 0 auto;
+        margin-right: 15px
+    }
+
+    .box96 > :last-child {
+        flex: 1 1 auto;
+        overflow: hidden
+    }
+
+.box128 {
+    display: flex
+}
+
+    .box128 > :first-child:not(:last-child) {
+        flex: 0 0 auto;
+        margin-right: 20px
+    }
+
+    .box128 > :last-child {
+        flex: 1 1 auto;
+        overflow: hidden
+    }
+
+.box256 {
+    display: flex
+}
+
+    .box256 > :first-child:not(:last-child) {
+        flex: 0 0 auto;
+        margin-right: 30px
+    }
+
+    .box256 > :last-child {
+        flex: 1 1 auto;
+        overflow: hidden
+    }
+
+img {
+    vertical-align: middle
+}
+
+body, html {
+    font-weight: 400;
+    height: 100%;
+    line-height: 1.48
+}
+
+@media screen and (min-width:769px),print {
+    body, html {
+        font-size: 14px
+    }
+}
+
+@media screen and (max-width:768px) {
+    body, html {
+        font-size: 14px
+    }
+}
+
+body {
+    background-color: rgba(250,250,250,0);
+    color: rgba(255,255,255,1);
+    font-family: "Josefin Sans",Helvetica,Verdana,sans-serif;
+    position: relative;
+    width: 100%;
+    word-wrap: break-word
+}
+
+a {
+    color: rgba(220,36,12,1);
+    cursor: pointer;
+    text-decoration: none
+}
+
+    a:hover {
+        color: rgba(124,20,6,1);
+        text-decoration: none
+    }
+
+.pageContainer {
+    display: flex;
+    height: 100%;
+    flex-direction: column
+}
+
+.main {
+    flex: 1 0 auto
+}
+
+@media screen and (max-width:1024px) {
+    .main {
+        /*padding: 40px 0;*/
+        width: 100%
+    }
+}
+
+@media screen and (min-width:1025px),print {
+    .main > div {
+        display: flex
+    }
+
+    .content {
+        flex: 1 1 0px
+    }
+
+        .content:not(:last-child) {
+            flex-basis: calc(100% - 340px);
+            max-width: calc(100% - 340px)
+        }
+
+        .content + .sidebar {
+            margin-left: 30px
+        }
+
+    .sidebar {
+        flex: 0 0 310px;
+        overflow: hidden
+    }
+
+        .sidebar:first-child {
+            margin-right: 30px
+        }
+
+        .sidebar + .content {
+            flex-basis: calc(100% - 340px);
+            max-width: calc(100% - 340px)
+        }
+
+            .sidebar + .content:not(:last-child) {
+                flex-basis: calc(100% - 680px);
+                max-width: calc(100% - 680px)
+            }
+}
+
+@media screen and (max-width:1024px) {
+    .sidebar {
+        margin: 0 -10px
+    }
+
+        .content + .sidebar, .sidebar + .content {
+            margin-top: 30px
+        }
+}
+
+_:-webkit-full-screen:not(:root:root) {
+    transform: translateZ(0)
+}
+
+@media print {
+    *, ::after, ::before {
+        background: 0 0 !important;
+        box-shadow: none !important;
+        color: #000 !important;
+        opacity: 1 !important;
+        text-shadow: none !important
+    }
+
+    .boxesSidebarRight {
+        display: none !important
+    }
+
+    .main {
+        padding: 30px 0
+    }
+
+    .content {
+        flex-basis: auto !important;
+        max-width: none !important
+    }
+
+    .main > div, .pageContainer {
+        display: block !important
+    }
+}
+
+.sidebar .boxContainer > div:not(.box), .sidebar .boxContainer > section:not(.box) {
+    background-color: rgba(236,241,247,0)
+}
+
+@media screen and (min-width:769px),print {
+    .sidebar .boxContainer > div:not(.box), .sidebar .boxContainer > section:not(.box) {
+        padding: 20px
+    }
+}
+
+@media screen and (max-width:768px) {
+    .sidebar .boxContainer > div:not(.box), .sidebar .boxContainer > section:not(.box) {
+        padding: 20px 10px
+    }
+}
+
+.sidebar .boxContainer > div:not(.box):not(:first-child), .sidebar .boxContainer > section:not(.box):not(:first-child) {
+    margin-top: 30px
+}
+
+.sidebar .boxContainer section:not(.box) > h1 {
+    color: rgba(241,181,66,1);
+    border-bottom-width: 0;
+    margin-bottom: 15px;
+    padding: 0;
+    font-weight: 400;
+    line-height: 1.28
+}
+
+@media screen and (min-width:769px),print {
+    .sidebar .boxContainer section:not(.box) > h1 {
+        font-size: 18px
+    }
+}
+
+@media screen and (max-width:768px) {
+    .sidebar .boxContainer section:not(.box) > h1 {
+        font-size: 18px
+    }
+}
+
+.sidebar .boxContainer section:not(.box) > h1 > a {
+    color: rgba(241,181,66,1)
+}
+
+    .sidebar .boxContainer section:not(.box) > h1 > a:hover {
+        color: rgba(241,181,66,1)
+    }
+
+.sidebar .boxContainer > div .boxContent::after, .sidebar .boxContainer > div .boxContent::before, .sidebar .boxContainer > section .boxContent::after, .sidebar .boxContainer > section .boxContent::before {
+    display: table;
+    content: ""
+}
+
+.sidebar .boxContainer > div .boxContent::after, .sidebar .boxContainer > section .boxContent::after {
+    clear: both
+}
+
+@keyframes wcfDialog {
+    0% {
+        visibility: visible;
+        top: 8%
+    }
+
+    100% {
+        visibility: visible;
+        top: 10%
+    }
+}
+
+@keyframes wcfDialogOut {
+    0% {
+        visibility: visible;
+        top: 10%
+    }
+
+    100% {
+        visibility: hidden;
+        top: 12%
+    }
+}
+
+@keyframes wcfPageAction {
+    0% {
+        visibility: visible;
+        transform: translateY(-10px);
+        opacity: 0
+    }
+
+    100% {
+        visibility: visible;
+        transform: translateY(0);
+        opacity: 1
+    }
+}
+
+@keyframes wcfPageActionOut {
+    0% {
+        visibility: visible;
+        transform: translateY(0);
+        opacity: 1
+    }
+
+    100% {
+        visibility: hidden;
+        transform: translateY(-10px);
+        opacity: 0
+    }
+}
+
+@keyframes wcfPageActionRemove {
+    0% {
+        visibility: visible;
+        transform: translateY(0);
+        opacity: 1
+    }
+
+    60% {
+        visibility: hidden;
+        transform: translateY(-10px);
+        opacity: 0
+    }
+
+    100% {
+        visibility: hidden;
+        transform: translateY(-10px);
+        opacity: 0;
+        max-width: 0
+    }
+}
+
+@keyframes wcfPopover {
+    0% {
+        visibility: visible;
+        transform: translateY(-20px);
+        opacity: 0
+    }
+
+    100% {
+        visibility: visible;
+        transform: translateY(0);
+        opacity: 1
+    }
+}
+
+@keyframes wcfPopoverOut {
+    0% {
+        visibility: visible;
+        transform: translateY(0);
+        opacity: 1
+    }
+
+    100% {
+        visibility: hidden;
+        transform: translateY(-20px);
+        opacity: 0
+    }
+}
+
+@-moz-document url-prefix() {
+    fieldset + .messageTabMenu {
+        margin-top: -3px
+    }
+}
+
+
+.wood {
+    background: url(../images/sg2global/wooden-board-bg.png) center top no-repeat
+}
+
+    .wood > div > a {
+        -moz-transform: translate(-50%,0);
+        -webkit-transform: translate(-50%,0);
+        transform: translate(-50%,0);
+        line-height: 155px;
+        padding: 20px 15px;
+        overflow: visible
+    }
+
+[id^=drop] {
+    display: none
+}
+
+@media (max-width:1212px) {
+    #main {
+        margin-left: 0
+    }
+}
+
+.userAvatarImage {
+    background-color: #fff;
+    border-radius: 50%
+}
