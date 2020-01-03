@@ -158,7 +158,7 @@ function CreateDay(day, data) {
             div.insertBefore(helper.e[0].img, div.firstChild);
 
         } else {
-            if (day.u !== undefined && day.d !== 0) {
+            if (day.u && day.u !== undefined && day.d !== 0) {
                 img = document.createElement("img");
                 img.src = day.u;
                 img.width = "1px";
@@ -175,7 +175,7 @@ function CreateDay(day, data) {
                 });
             }
             div.addEventListener("click", function () {
-                if (day.g !== "")
+                if (day.g && day.g !== "")
                     window.open(day.g, '_blank');
             });
         }
@@ -212,9 +212,8 @@ function sidebarEntry(day, som) {
     var li = document.createElement("li");
     li.className = "box24";
     var el = document.createElement("a");
-    //el.href = day.g;
     el.addEventListener("click", function () {
-        if (day.g !== "")
+        if (day.g && day.g !== "")
             window.open(day.g, '_blank');
     });
     li.appendChild(el);
@@ -243,10 +242,10 @@ function sidebarEntry(day, som) {
     else
         el2.innerHTML += day.t + " GMT";
 
-    if (day.u !== undefined) {
+    if (day.u && day.u !== undefined) {
         li.addEventListener("mouseenter", function () {
-            document.getElementById("calendar-hero-img").src = day.u;
-            title.className = "hidden";
+                document.getElementById("calendar-hero-img").src = day.u;
+                title.className = "hidden";
         });
 
         li.addEventListener("mouseleave", function () {
