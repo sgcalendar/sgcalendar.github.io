@@ -60,10 +60,18 @@ var jsonData = {
             },
             {
                 "d": 4,
-                "i": "https://i.imgur.com/5HTFviS.png",
-                "t": "All Day",
-                "n": "Mystery Box",
-                "u": "https://i.imgur.com/kB9HwLy.png"
+                "e": [{
+                    "i": "https://i.imgur.com/5HTFviS.png",
+                    "t": "All Day",
+                    "n": "Mystery Box",
+                    "u": "https://i.imgur.com/kB9HwLy.png"
+                },
+                {
+                    "i": "https://i.imgur.com/LmwH11a.png",
+                    "u": "https://i.imgur.com/AilHpWj.jpg",
+                    "t": "17:00",
+                    "n": "Budokan PvP"
+                }]
             },
             {
                 "d": 5,
@@ -125,11 +133,19 @@ var jsonData = {
                 "n": "Boss Spawn"
             },
             {
-                "d": 11,
-                "i": "https://i.imgur.com/nnJgE4E.png",
-                "t": "All Day",
-                "n": "Hexagonal Box",
-                "u": "https://i.imgur.com/kgPPMkZ.jpg"
+                "d": 11,                
+                "e": [{
+                    "i": "https://i.imgur.com/nnJgE4E.png",
+                    "t": "All Day",
+                    "n": "Hexagonal Box",
+                    "u": "https://i.imgur.com/kgPPMkZ.jpg"
+                },
+                {
+                    "i": "https://i.imgur.com/LmwH11a.png",
+                    "u": "https://i.imgur.com/AilHpWj.jpg",
+                    "t": "17:00",
+                    "n": "Budokan PvP"
+                }]
             },
             {
                 "d": 12,
@@ -192,10 +208,18 @@ var jsonData = {
             },
             {
                 "d": 18,
-                "i": "https://i.imgur.com/5HTFviS.png",
-                "t": "All Day",
-                "n": "Mystery Box",
-                "u": "https://i.imgur.com/kB9HwLy.png"
+                "e": [{
+                    "i": "https://i.imgur.com/5HTFviS.png",
+                    "t": "All Day",
+                    "n": "Mystery Box",
+                    "u": "https://i.imgur.com/kB9HwLy.png"
+                },
+                {
+                    "i": "https://i.imgur.com/LmwH11a.png",
+                    "u": "https://i.imgur.com/AilHpWj.jpg",
+                    "t": "17:00",
+                    "n": "Budokan PvP"
+                }]
             },
             {
                 "d": 19,
@@ -258,10 +282,18 @@ var jsonData = {
             },
             {
                 "d": 25,
-                "i": "https://i.imgur.com/nnJgE4E.png",
-                "t": "All Day",
-                "n": "Hexagonal Box",
-                "u": "https://i.imgur.com/kgPPMkZ.jpg"
+                "e": [{
+                    "i": "https://i.imgur.com/nnJgE4E.png",
+                    "t": "All Day",
+                    "n": "Hexagonal Box",
+                    "u": "https://i.imgur.com/kgPPMkZ.jpg"
+                },
+                {
+                    "i": "https://i.imgur.com/LmwH11a.png",
+                    "u": "https://i.imgur.com/AilHpWj.jpg",
+                    "t": "17:00",
+                    "n": "Budokan PvP"
+                }]
             },
             {
                 "d": 26,
