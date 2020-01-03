@@ -53,10 +53,10 @@ var jsonData = {
             },
             {
                 "d": 3,
-                "i": "https://i.imgur.com/S25ARD8.png",
-                "u": "https://i.imgur.com/aQ059WE.jpg",
+                "i": "./images/logo.png",
+                "g": "",
                 "t": "16:00",
-                "n": "Metin Spawn"
+                "n": "Gold Fever"
             },
             {
                 "d": 4,
@@ -128,9 +128,10 @@ var jsonData = {
             },
             {
                 "d": 10,
-                "i": "./images/logo.png",
-                "t": "16:00",
-                "n": "Boss Spawn"
+                "i": "https://i.imgur.com/M015dld.png",
+                "t": "17:00",
+                "n": "DT Run",
+                "u": "https://i.imgur.com/l9rRJLi.jpg"
             },
             {
                 "d": 11,                
@@ -201,10 +202,9 @@ var jsonData = {
             },
             {
                 "d": 17,
-                "i": "https://i.imgur.com/CX7RHb8.png",
+                "i": "./images/logo.png",
                 "t": "16:00",
-                "n": "Community Event",
-                "u": "https://i.imgur.com/myvtj8x.png"
+                "n": "Hunter's Hour"
             },
             {
                 "d": 18,
@@ -278,7 +278,7 @@ var jsonData = {
                 "d": 24,
                 "i": "./images/logo.png",
                 "t": "16:00",
-                "n": "Boss Spawn"
+                "n": "Horse Race"
             },
             {
                 "d": 25,
@@ -349,10 +349,9 @@ var jsonData = {
             },
             {
                 "d": 31,
-                "i": "https://i.imgur.com/M015dld.png",
-                "t": "19:00",
-                "n": "DT Run",
-                "u": "https://i.imgur.com/l9rRJLi.jpg"
+                "i": "./images/logo.png",
+                "t": "16:00",
+                "n": "Find The GM"
             }
         ]
     }
