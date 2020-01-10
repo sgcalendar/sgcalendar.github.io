@@ -129,7 +129,7 @@ var jsonData = {
             {
                 "d": 10,
                 "i": "https://i.imgur.com/M015dld.png",
-                "t": "17:00",
+                "t": "16:00",
                 "n": "DT Run",
                 "u": "https://i.imgur.com/l9rRJLi.jpg"
             },
