@@ -293,6 +293,11 @@ var jsonData = {
                     "u": "https://i.imgur.com/AilHpWj.jpg",
                     "t": "17:00",
                     "n": "Budokan PvP"
+                }, {
+                    "i": "./images/logo.png",
+                    "g": "",
+                    "t": " ",
+                    "n": "Dungeon Masters"
                 }]
             },
             {
@@ -307,6 +312,11 @@ var jsonData = {
                     "g": "",
                     "t": "15:00",
                     "n": "Nation War"
+                }, {
+                    "i": "./images/logo.png",
+                    "g": "",
+                    "t": " ",
+                    "n": "PvM King"
                 }]
             },
             {
