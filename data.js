@@ -359,9 +359,17 @@ var jsonData = {
             },
             {
                 "d": 31,
-                "i": "./images/logo.png",
-                "t": "16:00",
-                "n": "Find The GM"
+                "e": [{
+                    "i": "./images/logo.png",
+                    "t": "16:00",
+                    "n": "Find The GM"
+                },
+                {
+                    "i": "https://i.imgur.com/nnJgE4E.png",
+                    "t": "17:00",
+                    "n": "Hexagonal Box",
+                    "u": "https://i.imgur.com/kgPPMkZ.jpg"
+                }]
             }
         ]
     }
