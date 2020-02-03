@@ -492,9 +492,17 @@ var jsonData = {
             },
             {
                 "d": 7,
-                "i": "./images/logo.png",
-                "t": "16:00",
-                "n": "Gold Fever"
+                "e": [{
+                    "i": "https://i.imgur.com/nnJgE4E.png",
+                    "t": "All Day",
+                    "n": "Hexagonal Box",
+                    "u": "https://i.imgur.com/kgPPMkZ.jpg"
+                },
+                {
+                    "i": "./images/logo.png",
+                    "t": "16:00",
+                    "n": "Gold Fever"
+                }]
             },
             {
                 "d": 8,
@@ -565,9 +573,17 @@ var jsonData = {
             },
             {
                 "d": 14,
-                "i": "./images/logo.png",
-                "t": "16:00",
-                "n": "Horse Race"
+                "e": [{
+                    "i": "https://i.imgur.com/5HTFviS.png",
+                    "t": "All Day",
+                    "n": "Mystery Box",
+                    "u": "https://i.imgur.com/kB9HwLy.png"
+                },
+                {
+                    "i": "./images/logo.png",
+                    "t": "16:00",
+                    "n": "Horse Race"
+                }]
             },
             {
                 "d": 15,
@@ -643,9 +659,17 @@ var jsonData = {
             },
             {
                 "d": 21,
-                "i": "./images/logo.png",
-                "t": "16:00",
-                "n": "Hunter's Hour"
+                "e": [{
+                    "i": "https://i.imgur.com/nnJgE4E.png",
+                    "t": "All Day",
+                    "n": "Hexagonal Box",
+                    "u": "https://i.imgur.com/kgPPMkZ.jpg"
+                },
+                {
+                    "i": "./images/logo.png",
+                    "t": "16:00",
+                    "n": "Hunter's Hour"
+                }]
             },
             {
                 "d": 22,
@@ -715,10 +739,18 @@ var jsonData = {
             },
             {
                 "d": 28,
-                "i": "https://i.imgur.com/M015dld.png",
-                "t": "16:00",
-                "n": "DT Run",
-                "u": "https://i.imgur.com/l9rRJLi.jpg"
+                "e": [{
+                    "i": "https://i.imgur.com/5HTFviS.png",
+                    "t": "All Day",
+                    "n": "Mystery Box",
+                    "u": "https://i.imgur.com/kB9HwLy.png"
+                },
+                {
+                    "i": "https://i.imgur.com/M015dld.png",
+                    "t": "16:00",
+                    "n": "DT Run",
+                    "u": "https://i.imgur.com/l9rRJLi.jpg"
+                }]
             },
             {
                 "d": 29,
@@ -733,12 +765,12 @@ var jsonData = {
                     "u": "https://i.imgur.com/AilHpWj.jpg",
                     "t": "17:00",
                     "n": "Budokan PvP"
-                    }, {
-                        "i": "./images/logo.png",
-                        "g": "",
-                        "t": "14:00",
-                        "n": "Dungeon Masters"
-                    }]
+                }, {
+                    "i": "./images/logo.png",
+                    "g": "",
+                    "t": "14:00",
+                    "n": "Dungeon Masters"
+                }]
             }
         ]
     }
