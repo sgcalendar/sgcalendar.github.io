@@ -376,9 +376,9 @@ var jsonData = {
     "12020": {
         "y": 2020,
         "m": 0,
-        "som": "https://i.imgur.com/Jp35Whq.jpg",
-        "tc": "BB2528",
-        "ec": "F8B229",
+        "som": "https://i.imgur.com/la6ZlWL.png",
+        "tc": "9f2240",
+        "ec": "c72b50",
         "days": [
             {
                 "d": 0,
@@ -587,67 +587,38 @@ var jsonData = {
             },
             {
                 "d": 15,
-                "e": [{
-                    "i": "https://i.imgur.com/5HTFviS.png",
-                    "t": "All Day",
-                    "n": "Mystery Box",
-                    "u": "https://i.imgur.com/kB9HwLy.png"
-                },
-                {
-                    "i": "https://i.imgur.com/LmwH11a.png",
-                    "u": "https://i.imgur.com/AilHpWj.jpg",
-                    "t": "17:00",
-                    "n": "Budokan PvP"
-                }, {
-                    "i": "./images/logo.png",
-                    "t": "14:00",
-                    "n": "PvM King"
-                }]
+                "i": "https://i.imgur.com/8x1bE2C.png",
+                "g": "https://www.metin2sg.com/forum/thread/7106-st-valentine-s-event-2020/",
+                "t": "All Day",
+                "n": "St. Valentine's"
             },
             {
                 "d": 16,
-                "e": [{
-                    "i": "https://i.imgur.com/5HTFviS.png",
-                    "t": "All Day",
-                    "n": "Mystery Box",
-                    "u": "https://i.imgur.com/kB9HwLy.png"
-                }, {
-                    "i": "./images/logo.png",
-                    "g": "",
-                    "t": "15:00",
-                    "n": "Siege War"
-                }]
+                "i": "https://i.imgur.com/8x1bE2C.png",
+                "g": "https://www.metin2sg.com/forum/thread/7106-st-valentine-s-event-2020/",
+                "t": "All Day",
+                "n": "St. Valentine's"
             },
             {
                 "d": 17,
-                "i": "https://i.imgur.com/dAm7jFf.png",
-                "t": "16:00",
-                "n": "Vein Spawn",
-                "u": "https://i.imgur.com/JOiieaI.jpg",
-                "f": 0
+                "i": "https://i.imgur.com/8x1bE2C.png",
+                "g": "https://www.metin2sg.com/forum/thread/7106-st-valentine-s-event-2020/",
+                "t": "All Day",
+                "n": "St. Valentine's"
             },
             {
                 "d": 18,
-                "e": [
-                    {
-                        "i": "https://i.imgur.com/IllUyVq.png",
-                        "t": "16:00",
-                        "n": "OX Event",
-                        "u": "https://i.imgur.com/Kc7IsVi.jpg",
-                        "f": 0
-                    },
-                    {
-                        "i": "https://i.imgur.com/zGm6lA5.png",
-                        "u": "https://i.imgur.com/9BgHnmP.jpg",
-                        "t": "All Day",
-                        "n": "Moonlight Box"
-                    }]
+                "i": "https://i.imgur.com/8x1bE2C.png",
+                "g": "https://www.metin2sg.com/forum/thread/7106-st-valentine-s-event-2020/",
+                "t": "All Day",
+                "n": "St. Valentine's"
             },
             {
                 "d": 19,
-                "i": "./images/logo.png",
-                "t": "16:00",
-                "n": "Boss Spawn"
+                "i": "https://i.imgur.com/8x1bE2C.png",
+                "g": "https://www.metin2sg.com/forum/thread/7106-st-valentine-s-event-2020/",
+                "t": "All Day",
+                "n": "St. Valentine's"
             },
             {
                 "d": 20,
