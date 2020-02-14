@@ -575,13 +575,13 @@ var jsonData = {
                 "d": 14,
                 "e": [{
                     "i": "https://i.imgur.com/5HTFviS.png",
-                    "t": "17:00",
+                    "t": "18:00",
                     "n": "Mystery Box",
                     "u": "https://i.imgur.com/kB9HwLy.png"
                 },
                 {
                     "i": "./images/logo.png",
-                    "t": "16:00",
+                    "t": "18:00",
                     "n": "Horse Race"
                 }]
             },
