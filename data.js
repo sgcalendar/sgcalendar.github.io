@@ -784,19 +784,11 @@ var jsonData = {
             },
             {
                 "d": 4,
-                "i": "./images/logo.png",
-                "t": "17:00",
-                "n": "Boss Spawn"
-            },
-            {
-                "d": 5,
                 "e": [
                     {
-                        "i": "https://i.imgur.com/IllUyVq.png",
-                        "t": "20:00",
-                        "n": "OX Event",
-                        "u": "https://i.imgur.com/Kc7IsVi.jpg",
-                        "f": 0
+                        "i": "./images/logo.png",
+                        "t": "17:00",
+                        "n": "Boss Spawn"
                     },
                     {
                         "i": "https://i.imgur.com/zGm6lA5.png",
@@ -804,6 +796,14 @@ var jsonData = {
                         "t": "All Day",
                         "n": "Moonlight Box"
                     }]
+            },
+            {
+                "d": 5,
+                "i": "https://i.imgur.com/IllUyVq.png",
+                "t": "20:00",
+                "n": "OX Event",
+                "u": "https://i.imgur.com/Kc7IsVi.jpg",
+                "f": 0
             },
             {
                 "d": 6,
