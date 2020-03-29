@@ -1098,7 +1098,7 @@ var jsonData = {
                     "i": "./images/logo.png",
                     "g": "",
                     "t": "15:00",
-                    "n": "Siege War"
+                    "n": "Nation War"
                 },
                 {
                     "i": "./images/logo.png",
