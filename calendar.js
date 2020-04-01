@@ -1,4 +1,4 @@
-﻿var monthNames = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+var monthNames = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
 
 var calendarDate = new Date();
 var dayImageErrorUrl = "./images/error.png";
@@ -8,6 +8,7 @@ var loaded = false;
 
 function CalendarInit() {
     var data = jsonData[calendarDate.getMonth() + "" + calendarDate.getFullYear()];
+    //console.log(calendarDate.getMonth());
     if (data === undefined) {
         nextMonth();
         return;
@@ -44,7 +45,8 @@ function CalendarInit() {
                 break;
             }
         }
-        for (i = today + day0Count - 1; i < (exceeds ? daysInMonth : today + 10) + day0Count; i++) {
+        NextMajorEvent(today, data);
+        for (i = today + day0Count + 1; i < (exceeds ? daysInMonth : today + 11) + day0Count; i++) {
             day = data.days[i];
             CreateSidebarDay(day, data.som, sidebar);
         }
@@ -256,7 +258,6 @@ function sidebarEntry(day, som) {
     return li;
 }
 
-
 function dayImgError(el, data) {
     var div = el.parentNode;
     div.removeChild(el);
@@ -283,15 +284,19 @@ function previousMonth() {
     ClearContainers();
     CalendarInit();
 }
-
+var count = 1;
 function nextMonth() {
+    if (++count === 5) return;
     var m = calendarDate.getMonth() + 1;
     if (m > 11) {
+        calendarDate.setUTCDate(1);
         calendarDate.setMonth(0);
         calendarDate.setFullYear(calendarDate.getFullYear() + 1);
     } else {
+        calendarDate.setDate(1);
         calendarDate.setMonth(m);
     }
+    
     var date = new Date();
     if (date.getMonth === calendarDate.getMonth()) {
         calendarDate.setUTCDate(date.getUTCDate());
@@ -338,6 +343,69 @@ function nextPrevMonthExists() {
     }
 }
 
+function NextMajorEvent(today, data) {
+    var sidebar = document.getElementById("today-sidebar");
+    var day = data.days.find(el => el.d == today);
+    if (day.e) {
+        for (var i = 0; i < day.e.length; i++) {
+            sidebar.appendChild(sidebarEntry(day.e[i], data.som));
+        }
+    } else {
+        sidebar.appendChild(sidebarEntry(day, data.som));
+    }
+
+    day = null;
+    sidebar = document.getElementById("tomorrow-sidebar");
+    var nextMonth = false;
+    var tomorrow = today + 1;
+    if (tomorrow > daysInMonth(calendarDate.getMonth() + 1, calendarDate.getFullYear())) {
+        data = jsonData[calendarDate.getMonth() + 1 + "" + calendarDate.getFullYear()];
+        tomorrow = 1;
+        nextMonth = true;
+    }
+    day = data.days.find(el => el.d == tomorrow);
+    if (day.e) {
+        for (var i = 0; i < day.e.length; i++) {
+            day.e[i].d = day.d;
+            sidebar.appendChild(sidebarEntry(day.e[i], data.som));
+        }
+    } else {
+        sidebar.appendChild(sidebarEntry(day, data.som));
+    }
+    if (nextMonth)
+        data = jsonData[calendarDate.getMonth() + "" + calendarDate.getFullYear()];
+
+    day = null;
+    sidebar = document.getElementById("major-sidebar");
+    let options = ["Moonlight Box", "Dungeon Masters", "PvM King", "Fishing Extravaganza"];
+    for (i = 0; i < data.days.length; i++) {
+        day = data.days[i];
+        if (day.d > today) {
+            if (day.e) {
+                for (var j = 0; j < day.e.length; j++) {
+                    if (options.includes(day.e[j].n)) {
+                        options = options.filter(v => v !== day.e[j].n);
+                        day.e[j].d = day.d;
+                        sidebar.appendChild(sidebarEntry(day.e[j], data.som));
+                        j = 100;
+                        break;
+                    }
+                }
+            } else {
+                if (options.includes(day.n)) {
+                    options = options.filter(v => v !== day.e[j].n); 
+                    sidebar.appendChild(sidebarEntry(day, data.som));
+                    j = 100;
+                    break;
+                }
+            }
+        }
+    }
+}
+
+function daysInMonth(month, year) {
+    return new Date(year, month, 0).getDate();
+}
 
 setInterval(function () {
     if (!hovering) {
