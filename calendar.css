@@ -250,6 +250,10 @@ body::-webkit-scrollbar-thumb {
         }
 }
 
+.boxTitle {
+    line-height:37px;
+}
+
 @media only screen and (max-width:1024px) {
     #calendar #calendar-hero #calendar-monthTitle {
         font-size: 7vw
@@ -274,6 +278,10 @@ body::-webkit-scrollbar-thumb {
         #calendar #calendar-panel .day .calendar-event-name.longText {
             font-size: 1.7vw
         }
+
+    .boxTitle {
+        line-height: 85px;
+    }
 }
 
 @media only screen and (max-width:768px) {
@@ -366,8 +374,4 @@ body::-webkit-scrollbar-thumb {
         page-break-inside: unset;
         break-inside: unset;
     }
-}
-
-.boxTitle {
-    line-height:37px;
 }
