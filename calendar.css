@@ -367,3 +367,7 @@ body::-webkit-scrollbar-thumb {
         break-inside: unset;
     }
 }
+
+.boxTitle {
+    line-height:37px;
+}
