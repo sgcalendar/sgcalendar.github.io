@@ -348,6 +348,7 @@ function NextMajorEvent(today, data) {
     var day = data.days.find(el => el.d == today);
     if (day.e) {
         for (var i = 0; i < day.e.length; i++) {
+            day.e[i].d = day.d;
             sidebar.appendChild(sidebarEntry(day.e[i], data.som));
         }
     } else {
