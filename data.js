@@ -1155,7 +1155,7 @@ var jsonData = {
             },
             {
                 "d": 1,
-                "i": "https://i.imgur.com/4yq9cop.png",
+                "i": "https://i.imgur.com/CQMpPqr.png",
                 "t": "16:00",
                 "u": "https://i.imgur.com/Kn9NImO.png",
                 "n": "Boss Spawn",
@@ -1336,7 +1336,7 @@ var jsonData = {
             },
             {
                 "d": 15,
-                "i": "https://i.imgur.com/4yq9cop.png",
+                "i": "https://i.imgur.com/CQMpPqr.png",
                 "t": "16:00",
                 "u": "https://i.imgur.com/Kn9NImO.png",
                 "n": "Boss Spawn",
@@ -1516,7 +1516,7 @@ var jsonData = {
             },
             {
                 "d": 29,
-                "i": "https://i.imgur.com/4yq9cop.png",
+                "i": "https://i.imgur.com/CQMpPqr.png",
                 "t": "16:00",
                 "u": "https://i.imgur.com/Kn9NImO.png",
                 "n": "Boss Spawn",
