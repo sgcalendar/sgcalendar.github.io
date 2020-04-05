@@ -1158,7 +1158,8 @@ var jsonData = {
                 "i": "https://i.imgur.com/4yq9cop.png",
                 "t": "16:00",
                 "u": "https://i.imgur.com/Kn9NImO.png",
-                "n": "Boss Spawn"
+                "n": "Boss Spawn",
+                "g": "https://www.metin2sg.com/forum/thread/7167-event-boss-spawn/"
             },
             {
                 "d": 2,
@@ -1338,7 +1339,8 @@ var jsonData = {
                 "i": "https://i.imgur.com/4yq9cop.png",
                 "t": "16:00",
                 "u": "https://i.imgur.com/Kn9NImO.png",
-                "n": "Boss Spawn"
+                "n": "Boss Spawn",
+                "g": "https://www.metin2sg.com/forum/thread/7167-event-boss-spawn/"
             },
             {
                 "d": 16,
@@ -1517,7 +1519,8 @@ var jsonData = {
                 "i": "https://i.imgur.com/4yq9cop.png",
                 "t": "16:00",
                 "u": "https://i.imgur.com/Kn9NImO.png",
-                "n": "Boss Spawn"
+                "n": "Boss Spawn",
+                "g": "https://www.metin2sg.com/forum/thread/7167-event-boss-spawn/"
             },
             {
                 "d": 30,
