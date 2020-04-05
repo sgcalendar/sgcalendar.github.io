@@ -1248,8 +1248,8 @@ var jsonData = {
             },
             {
                 "d": 8,
-                "i": "https://i.imgur.com/S25ARD8.png",
-                "u": "https://i.imgur.com/aQ059WE.jpg",
+                "i": "https://i.imgur.com/O6Irvei.png",
+                "u": "https://i.imgur.com/GtmFZDY.jpg",
                 "t": "16:00",
                 "n": "Metin Spawn"
             },
@@ -1421,8 +1421,8 @@ var jsonData = {
             {
                 "d": 22,
                 "e": [{
-                    "i": "https://i.imgur.com/S25ARD8.png",
-                    "u": "https://i.imgur.com/aQ059WE.jpg",
+                    "i": "https://i.imgur.com/O6Irvei.png",
+                    "u": "https://i.imgur.com/GtmFZDY.jpg",
                     "t": "16:00",
                     "n": "Metin Spawn"
                 },
