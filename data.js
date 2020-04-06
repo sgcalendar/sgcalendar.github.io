@@ -1249,7 +1249,7 @@ var jsonData = {
             {
                 "d": 8,
                 "i": "https://i.imgur.com/O6Irvei.png",
-                "u": "https://i.imgur.com/GtmFZDY.jpg",
+                "u": "https://i.imgur.com/nFRv4gz.png",
                 "t": "16:00",
                 "n": "Metin Spawn"
             },
@@ -1422,7 +1422,7 @@ var jsonData = {
                 "d": 22,
                 "e": [{
                     "i": "https://i.imgur.com/O6Irvei.png",
-                    "u": "https://i.imgur.com/GtmFZDY.jpg",
+                    "u": "https://i.imgur.com/nFRv4gz.png",
                     "t": "16:00",
                     "n": "Metin Spawn"
                 },
