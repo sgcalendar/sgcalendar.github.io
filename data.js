@@ -1263,31 +1263,41 @@ var jsonData = {
                 "d": 10,
                 "i": "https://i.imgur.com/99dMYlP.png",
                 "t": "All Day",
-                "n": "Easter"
+                "n": "Easter",
+                "u": "https://i.imgur.com/PYZcgCk.jpg",
+                "g":"https://www.metin2sg.com/forum/thread/7175-easter-event-2020/#post37959"
             },
             {
                 "d": 11,
                 "i": "https://i.imgur.com/99dMYlP.png",
                 "t": "All Day",
-                "n": "Easter"
+                "n": "Easter",
+                "u": "https://i.imgur.com/PYZcgCk.jpg",
+                "g":"https://www.metin2sg.com/forum/thread/7175-easter-event-2020/#post37959"
             },
             {
                 "d": 12,
                 "i": "https://i.imgur.com/99dMYlP.png",
                 "t": "All Day",
-                "n": "Easter"
+                "n": "Easter",
+                "u": "https://i.imgur.com/PYZcgCk.jpg",
+                "g":"https://www.metin2sg.com/forum/thread/7175-easter-event-2020/#post37959"
             },
             {
                 "d": 13,
                 "i": "https://i.imgur.com/99dMYlP.png",
                 "t": "All Day",
-                "n": "Easter"
+                "n": "Easter",
+                "u": "https://i.imgur.com/PYZcgCk.jpg",
+                "g":"https://www.metin2sg.com/forum/thread/7175-easter-event-2020/#post37959"
             },
             {
                 "d": 14,
                 "i": "https://i.imgur.com/99dMYlP.png",
                 "t": "All Day",
-                "n": "Easter"
+                "n": "Easter",
+                "u": "https://i.imgur.com/PYZcgCk.jpg",
+                "g":"https://www.metin2sg.com/forum/thread/7175-easter-event-2020/#post37959"
             },
             {
                 "d": 15,
