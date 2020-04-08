@@ -378,7 +378,7 @@ function NextMajorEvent(today, data) {
 
     day = null;
     sidebar = document.getElementById("major-sidebar");
-    let options = ["Moonlight Box", "Dungeon Masters", "PvM King", "Fishing Extravaganza"];
+    let options = ["Moonlight Box", "Dungeon Masters", "PvM King", "Fishing Extravaganza", "Easter"];
     for (i = 0; i < data.days.length; i++) {
         day = data.days[i];
         if (day.d > today) {
@@ -394,10 +394,8 @@ function NextMajorEvent(today, data) {
                 }
             } else {
                 if (options.includes(day.n)) {
-                    options = options.filter(v => v !== day.e[j].n); 
+                    options = options.filter(v => v !== day.n); 
                     sidebar.appendChild(sidebarEntry(day, data.som));
-                    j = 100;
-                    break;
                 }
             }
         }
