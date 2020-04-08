@@ -1155,11 +1155,9 @@ var jsonData = {
             },
             {
                 "d": 1,
-                "i": "https://i.imgur.com/CQMpPqr.png",
+                "i": "./images/logo.png",
                 "t": "16:00",
-                "u": "https://i.imgur.com/UzL4RIf.jpg",
-                "n": "Boss Spawn",
-                "g": "https://www.metin2sg.com/forum/thread/7167-event-boss-spawn/"
+                "n": "Boss Spawn"
             },
             {
                 "d": 2,
@@ -1228,7 +1226,7 @@ var jsonData = {
                 "e": [
                     {
                         "i": "./images/logo.png",
-                        "t": "17:00",
+                        "t": "16:00",
                         "n": "Tanaka Hunt"
                     },
                     {
@@ -1248,8 +1246,8 @@ var jsonData = {
             },
             {
                 "d": 8,
-                "i": "https://i.imgur.com/O6Irvei.png",
-                "u": "https://i.imgur.com/nFRv4gz.png",
+                "i": "https://i.imgur.com/S25ARD8.png",
+                "u": "https://i.imgur.com/aQ059WE.jpg",
                 "t": "16:00",
                 "n": "Metin Spawn"
             },
@@ -1263,84 +1261,39 @@ var jsonData = {
             },
             {
                 "d": 10,
-                "e": [{
-                    "i": "https://i.imgur.com/5HTFviS.png",
-                    "t": "17:00",
-                    "n": "Mystery Box",
-                    "u": "https://i.imgur.com/kB9HwLy.png"
-                },
-                {
-                    "i": "./images/logo.png",
-                    "t": "16:00",
-                    "n": "Gold Fever"
-                }]
+                "i": "https://i.imgur.com/99dMYlP.png",
+                "t": "All Day",
+                "n": "Easter"
             },
             {
                 "d": 11,
-                "e": [{
-                    "i": "https://i.imgur.com/5HTFviS.png",
-                    "t": "All Day",
-                    "n": "Mystery Box",
-                    "u": "https://i.imgur.com/kB9HwLy.png"
-                },
-                {
-                    "i": "./images/logo.png",
-                    "t": "15:00",
-                    "n": "Fishing Extravaganza"
-                },
-                {
-                    "i": "https://i.imgur.com/LmwH11a.png",
-                    "u": "https://i.imgur.com/AilHpWj.jpg",
-                    "t": "17:00",
-                    "n": "Budokan PvP"
-                }]
+                "i": "https://i.imgur.com/99dMYlP.png",
+                "t": "All Day",
+                "n": "Easter"
             },
             {
                 "d": 12,
-                "e": [{
-                    "i": "https://i.imgur.com/5HTFviS.png",
-                    "t": "All Day",
-                    "n": "Mystery Box",
-                    "u": "https://i.imgur.com/kB9HwLy.png"
-                }, {
-                    "i": "./images/logo.png",
-                    "g": "",
-                    "t": "15:00",
-                    "n": "Nation War"
-                }]
+                "i": "https://i.imgur.com/99dMYlP.png",
+                "t": "All Day",
+                "n": "Easter"
             },
             {
                 "d": 13,
-                "i": "https://i.imgur.com/dAm7jFf.png",
-                "t": "16:00",
-                "n": "Vein Spawn",
-                "u": "https://i.imgur.com/JOiieaI.jpg",
-                "f": 0
+                "i": "https://i.imgur.com/99dMYlP.png",
+                "t": "All Day",
+                "n": "Easter"
             },
             {
                 "d": 14,
-                "e": [
-                    {
-                        "i": "https://i.imgur.com/IllUyVq.png",
-                        "t": "16:00",
-                        "n": "OX Event",
-                        "u": "https://i.imgur.com/Kc7IsVi.jpg",
-                        "f": 0
-                    },
-                    {
-                        "i": "https://i.imgur.com/zGm6lA5.png",
-                        "u": "https://i.imgur.com/9BgHnmP.jpg",
-                        "t": "All Day",
-                        "n": "Moonlight Box"
-                    }]
+                "i": "https://i.imgur.com/99dMYlP.png",
+                "t": "All Day",
+                "n": "Easter"
             },
             {
                 "d": 15,
-                "i": "https://i.imgur.com/CQMpPqr.png",
+                "i": "./images/logo.png",
                 "t": "16:00",
-                "u": "https://i.imgur.com/UzL4RIf.jpg",
-                "n": "Boss Spawn",
-                "g": "https://www.metin2sg.com/forum/thread/7167-event-boss-spawn/"
+                "n": "Boss Spawn"
             },
             {
                 "d": 16,
@@ -1421,8 +1374,8 @@ var jsonData = {
             {
                 "d": 22,
                 "e": [{
-                    "i": "https://i.imgur.com/O6Irvei.png",
-                    "u": "https://i.imgur.com/nFRv4gz.png",
+                    "i": "https://i.imgur.com/S25ARD8.png",
+                    "u": "https://i.imgur.com/aQ059WE.jpg",
                     "t": "16:00",
                     "n": "Metin Spawn"
                 },
@@ -1516,11 +1469,9 @@ var jsonData = {
             },
             {
                 "d": 29,
-                "i": "https://i.imgur.com/CQMpPqr.png",
+                "i": "./images/logo.png",
                 "t": "16:00",
-                "u": "https://i.imgur.com/UzL4RIf.jpg",
-                "n": "Boss Spawn",
-                "g": "https://www.metin2sg.com/forum/thread/7167-event-boss-spawn/"
+                "n": "Boss Spawn"
             },
             {
                 "d": 30,
