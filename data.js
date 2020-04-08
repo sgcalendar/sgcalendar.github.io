@@ -1301,17 +1301,19 @@ var jsonData = {
             },
             {
                 "d": 15,
-                "i": "./images/logo.png",
-                "t": "16:00",
-                "n": "Boss Spawn"
+                "i": "https://i.imgur.com/99dMYlP.png",
+                "t": "All Day",
+                "n": "Easter",
+                "u": "https://i.imgur.com/PYZcgCk.jpg",
+                "g":"https://www.metin2sg.com/forum/thread/7175-easter-event-2020/#post37959"
             },
             {
                 "d": 16,
-                "i": "https://i.imgur.com/IllUyVq.png",
-                "t": "20:00",
-                "n": "OX Event",
-                "u": "https://i.imgur.com/Kc7IsVi.jpg",
-                "f": 0
+                "i": "https://i.imgur.com/99dMYlP.png",
+                "t": "All Day",
+                "n": "Easter",
+                "u": "https://i.imgur.com/PYZcgCk.jpg",
+                "g":"https://www.metin2sg.com/forum/thread/7175-easter-event-2020/#post37959"
             },
             {
                 "d": 17,
