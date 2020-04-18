@@ -657,20 +657,6 @@ _:-webkit-full-screen:not(:root:root) {
     }
 }
 
-
-.wood {
-    background: url(../images/sg2global/wooden-board-bg.png) center top no-repeat
-}
-
-    .wood > div > a {
-        -moz-transform: translate(-50%,0);
-        -webkit-transform: translate(-50%,0);
-        transform: translate(-50%,0);
-        line-height: 155px;
-        padding: 20px 15px;
-        overflow: visible
-    }
-
 [id^=drop] {
     display: none
 }
