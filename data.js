@@ -1549,18 +1549,10 @@ var jsonData = {
             },
             {
                 "d": 1,
-                "e": [{
-                    "i": "https://i.imgur.com/nnJgE4E.png",
-                    "t": "17:00",
-                    "n": "Hexagonal Box",
-                    "u": "https://i.imgur.com/kgPPMkZ.jpg"
-                },
-                {
-                    "i": "https://i.imgur.com/M015dld.png",
-                    "t": "16:00",
-                    "n": "DT Run",
-                    "u": "https://i.imgur.com/l9rRJLi.jpg"
-                }]
+                "i": "https://i.imgur.com/M015dld.png",
+                "t": "16:00",
+                "n": "DT Run",
+                "u": "https://i.imgur.com/l9rRJLi.jpg"
             },
             {
                 "d": 2,
@@ -1584,17 +1576,10 @@ var jsonData = {
             },
             {
                 "d": 3,
-                "e": [{
-                    "i": "https://i.imgur.com/nnJgE4E.png",
-                    "t": "All Day",
-                    "n": "Hexagonal Box",
-                    "u": "https://i.imgur.com/kgPPMkZ.jpg"
-                }, {
-                    "i": "./images/logo.png",
-                    "g": "",
-                    "t": "15:00",
-                    "n": "Nation War"
-                }]
+                "i": "./images/logo.png",
+                "g": "",
+                "t": "15:00",
+                "n": "Nation War"
             },
             {
                 "d": 4,
@@ -1636,17 +1621,9 @@ var jsonData = {
             },
             {
                 "d": 8,
-                "e": [{
-                    "i": "https://i.imgur.com/5HTFviS.png",
-                    "t": "17:00",
-                    "n": "Mystery Box",
-                    "u": "https://i.imgur.com/kB9HwLy.png"
-                },
-                {
-                    "i": "./images/logo.png",
-                    "t": "16:00",
-                    "n": "Gold Fever"
-                }]
+                "i": "./images/logo.png",
+                "t": "16:00",
+                "n": "Gold Fever"
             },
             {
                 "d": 9,
@@ -1671,11 +1648,6 @@ var jsonData = {
             {
                 "d": 10,
                 "e": [{
-                    "i": "https://i.imgur.com/5HTFviS.png",
-                    "t": "All Day",
-                    "n": "Mystery Box",
-                    "u": "https://i.imgur.com/kB9HwLy.png"
-                }, {
                     "i": "./images/logo.png",
                     "g": "",
                     "t": "15:00",
@@ -1730,17 +1702,9 @@ var jsonData = {
             },
             {
                 "d": 15,
-                "e": [{
-                    "i": "https://i.imgur.com/nnJgE4E.png",
-                    "t": "17:00",
-                    "n": "Hexagonal Box",
-                    "u": "https://i.imgur.com/kgPPMkZ.jpg"
-                },
-                {
-                    "i": "./images/logo.png",
-                    "t": "16:00",
-                    "n": "Horse Race"
-                }]
+                "i": "./images/logo.png",
+                "t": "16:00",
+                "n": "Horse Race"
             },
             {
                 "d": 16,
@@ -1759,18 +1723,10 @@ var jsonData = {
             },
             {
                 "d": 17,
-                "e": [{
-                    "i": "https://i.imgur.com/nnJgE4E.png",
-                    "t": "All Day",
-                    "n": "Hexagonal Box",
-                    "u": "https://i.imgur.com/kgPPMkZ.jpg"
-                },
-                {
-                    "i": "./images/logo.png",
-                    "g": "",
-                    "t": "15:00",
-                    "n": "Nation War"
-                }]
+                "i": "./images/logo.png",
+                "g": "",
+                "t": "15:00",
+                "n": "Nation War"
             },
             {
                 "d": 18,
@@ -1811,18 +1767,9 @@ var jsonData = {
             },
             {
                 "d": 22,
-                "e": [
-                    {
-                        "i": "https://i.imgur.com/5HTFviS.png",
-                        "t": "17:00",
-                        "n": "Mystery Box",
-                        "u": "https://i.imgur.com/kB9HwLy.png"
-                    },
-                    {
-                        "i": "./images/logo.png",
-                        "t": "16:00",
-                        "n": "Hunter Hour"
-                    }]
+                "i": "./images/logo.png",
+                "t": "16:00",
+                "n": "Hunter Hour"
             },
             {
                 "d": 23,
@@ -1847,17 +1794,10 @@ var jsonData = {
             },
             {
                 "d": 24,
-                "e": [{
-                    "i": "https://i.imgur.com/5HTFviS.png",
-                    "t": "All Day",
-                    "n": "Mystery Box",
-                    "u": "https://i.imgur.com/kB9HwLy.png"
-                }, {
-                    "i": "./images/logo.png",
-                    "g": "",
-                    "t": "15:00",
-                    "n": "Nation War"
-                }]
+                "i": "./images/logo.png",
+                "g": "",
+                "t": "15:00",
+                "n": "Nation War"
             },
             {
                 "d": 25,
@@ -1902,17 +1842,9 @@ var jsonData = {
             },
             {
                 "d": 29,
-                "e": [{
-                    "i": "https://i.imgur.com/nnJgE4E.png",
-                    "t": "17:00",
-                    "n": "Hexagonal Box",
-                    "u": "https://i.imgur.com/kgPPMkZ.jpg"
-                },
-                {
-                    "i": "./images/logo.png",
-                    "t": "16:00",
-                    "n": "Find The GM"
-                }]
+                "i": "./images/logo.png",
+                "t": "16:00",
+                "n": "Find The GM"
             },
             {
                 "d": 30,
@@ -1937,12 +1869,7 @@ var jsonData = {
             },
             {
                 "d": 31,
-                "e": [{
-                    "i": "https://i.imgur.com/nnJgE4E.png",
-                    "t": "All Day",
-                    "n": "Hexagonal Box",
-                    "u": "https://i.imgur.com/kgPPMkZ.jpg"
-                },
+                "e": [
                 {
                     "i": "./images/logo.png",
                     "g": "",
