@@ -1680,6 +1680,11 @@ var jsonData = {
                     "g": "",
                     "t": "15:00",
                     "n": "Nation War"
+                },
+                {
+                    "i": "./images/logo.png",
+                    "t": "14:00",
+                    "n": "PvM King"
                 }]
             },
             {
@@ -1943,6 +1948,12 @@ var jsonData = {
                     "g": "",
                     "t": "15:00",
                     "n": "Nation War"
+                },
+                {
+                    "i": "./images/logo.png",
+                    "g": "",
+                    "t": "14:00",
+                    "n": "Dungeon Masters"
                 }]
             }
         ]
