@@ -709,10 +709,10 @@ var jsonData = {
             },
             {
                 "d": 26,
-                "i": "https://i.imgur.com/M015dld.png",
-                "t": "16:00",
-                "n": "DT Run",
-                "u": "https://i.imgur.com/l9rRJLi.jpg"
+                "i": "./images/logo.png",
+                    "g": "",
+                    "t": "16:00",
+                    "n": "Hunter's Hour"
             },
             {
                 "d": 27,
