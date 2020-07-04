@@ -626,12 +626,6 @@ var jsonData = {
                     "u": "https://i.imgur.com/AilHpWj.jpg",
                     "t": "17:00",
                     "n": "Budokan PvP"
-                },
-                {
-                    "i": "./images/logo.png",
-                    "g": "",
-                    "t": "15:00",
-                    "n": "Fishing Extravaganza"
                 }]
             },
             {
