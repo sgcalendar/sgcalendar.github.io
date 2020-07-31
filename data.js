@@ -813,7 +813,7 @@ var jsonData = {
                 "d": 31,
                 "i": "./images/logo.png",
                 "t": "16:00",
-                "n": "Find the GM"
+                "n": "Hunter's Hour"
             }
         ]
     }
