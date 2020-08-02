@@ -44,7 +44,7 @@ var jsonData = {
             },
             {
                 "d": 3,
-                "i": "./images/logo.png",
+                "i": "https://i.imgur.com/fihlJd5.png",
                 "t": "16:00",
                 "n": "Gold Fever"
             },
@@ -600,7 +600,7 @@ var jsonData = {
             {
                 "d": 7,
                 "e":[{
-                    "i": "./images/logo.png",
+                    "i": "https://i.imgur.com/fihlJd5.png",
                     "t": "16:00",
                     "n": "Gold Fever"
                 },
