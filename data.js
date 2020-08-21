@@ -793,10 +793,9 @@ var jsonData = {
             {
                 "d": 21,
                 "e":[{
-                "i": "https://i.imgur.com/M015dld.png",
+                    "i": "./images/logo.png",
                 "t": "16:00",
-                "n": "DT Run",
-                "u": "https://i.imgur.com/l9rRJLi.jpg"
+                "n": "Hunter's Hour"
             },
             {
                 "i": "https://i.imgur.com/W6V1uZK.jpg",
@@ -875,9 +874,10 @@ var jsonData = {
             },
             {
                 "d": 28,
-                "i": "./images/logo.png",
+                "i": "https://i.imgur.com/M015dld.png",
                 "t": "16:00",
-                "n": "Hunter's Hour"
+                "n": "DT Run",
+                "u": "https://i.imgur.com/l9rRJLi.jpg"
             },
             {
                 "d": 29,
