@@ -839,7 +839,7 @@ var jsonData = {
                 "e": [
                     {
                         "i": "./images/logo.png",
-                        "t": "16:00",
+                        "t": "18:00",
                         "n": "Tanaka Hunt"
                     },
                     {
