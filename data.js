@@ -910,7 +910,7 @@ var jsonData = {
                 {
                     "i": "./images/logo.png",
                     "g": "",
-                    "t": "17:00",
+                    "t": "15:00",
                     "n": "Nation War"
                 },
                 {
