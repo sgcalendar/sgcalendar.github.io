@@ -378,7 +378,7 @@ function NextMajorEvent(today, data) {
 
     day = null;
     sidebar = document.getElementById("major-sidebar");
-    let options = ["Moonlight Box", "Dungeon Masters", "PvM King", "Fishing Extravaganza", "Easter"];
+    let options = ["Moonlight Box", "Dungeon Masters", "PvM King", "Fishing Extravaganza", "Easter", "Halloween"];
     for (i = 0; i < data.days.length; i++) {
         day = data.days[i];
         if (day.d > today) {
