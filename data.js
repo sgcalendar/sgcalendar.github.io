@@ -47,7 +47,7 @@ var jsonData = {
                         "i": "https://i.imgur.com/W6V1uZK.jpg",
                         "t": "All Day",
                         "n": "Forum Lottery",
-                        "g": "https://www.metin2sg.com/forum/wcf/user/106-tary/"
+                        "g": "https://www.metin2sg.com/forum/wcf/user/106-tary/","u":""
                     }
                 ]
             },
@@ -62,7 +62,7 @@ var jsonData = {
                         "i": "https://i.imgur.com/W6V1uZK.jpg",
                         "t": "All Day",
                         "n": "Forum Lottery",
-                        "g": "https://www.metin2sg.com/forum/wcf/user/106-tary/"
+                        "g": "https://www.metin2sg.com/forum/wcf/user/106-tary/","u":""
                     }
                 ]
             },
@@ -193,7 +193,7 @@ var jsonData = {
                         "i": "https://i.imgur.com/W6V1uZK.jpg",
                         "t": "All Day",
                         "n": "Forum Lottery",
-                        "g": "https://www.metin2sg.com/forum/wcf/user/106-tary/"
+                        "g": "https://www.metin2sg.com/forum/wcf/user/106-tary/","u":""
                     }
                 ]
             },
@@ -210,7 +210,7 @@ var jsonData = {
                         "i": "https://i.imgur.com/W6V1uZK.jpg",
                         "t": "All Day",
                         "n": "Forum Lottery",
-                        "g": "https://www.metin2sg.com/forum/wcf/user/106-tary/"
+                        "g": "https://www.metin2sg.com/forum/wcf/user/106-tary/","u":""
                     }
                 ]
             },
@@ -227,7 +227,7 @@ var jsonData = {
                         "i": "https://i.imgur.com/W6V1uZK.jpg",
                         "t": "All Day",
                         "n": "Forum Lottery",
-                        "g": "https://www.metin2sg.com/forum/wcf/user/106-tary/"
+                        "g": "https://www.metin2sg.com/forum/wcf/user/106-tary/","u":""
                     }
                 ]
             },
@@ -250,7 +250,7 @@ var jsonData = {
                         "i": "https://i.imgur.com/W6V1uZK.jpg",
                         "t": "All Day",
                         "n": "Forum Lottery",
-                        "g": "https://www.metin2sg.com/forum/wcf/user/106-tary/"
+                        "g": "https://www.metin2sg.com/forum/wcf/user/106-tary/","u":""
                     }
                 ]
             },
@@ -265,7 +265,7 @@ var jsonData = {
                         "i": "https://i.imgur.com/W6V1uZK.jpg",
                         "t": "16:00",
                         "n": "Forum Lottery",
-                        "g": "https://www.metin2sg.com/forum/wcf/user/106-tary/"
+                        "g": "https://www.metin2sg.com/forum/wcf/user/106-tary/","u":""
                     }
                 ]
             },
@@ -541,7 +541,7 @@ var jsonData = {
                         "i": "https://i.imgur.com/W6V1uZK.jpg",
                         "t": "All Day",
                         "n": "Forum Lottery",
-                        "g": "https://www.metin2sg.com/forum/wcf/user/106-tary/"
+                        "g": "https://www.metin2sg.com/forum/wcf/user/106-tary/","u":""
                     }
                 ]
             },
@@ -558,7 +558,7 @@ var jsonData = {
                         "i": "https://i.imgur.com/W6V1uZK.jpg",
                         "t": "All Day",
                         "n": "Forum Lottery",
-                        "g": "https://www.metin2sg.com/forum/wcf/user/106-tary/"
+                        "g": "https://www.metin2sg.com/forum/wcf/user/106-tary/","u":""
                     }
                 ]
             },
@@ -575,7 +575,7 @@ var jsonData = {
                         "i": "https://i.imgur.com/W6V1uZK.jpg",
                         "t": "All Day",
                         "n": "Forum Lottery",
-                        "g": "https://www.metin2sg.com/forum/wcf/user/106-tary/"
+                        "g": "https://www.metin2sg.com/forum/wcf/user/106-tary/","u":""
                     }
                 ]
             },
@@ -598,7 +598,7 @@ var jsonData = {
                         "i": "https://i.imgur.com/W6V1uZK.jpg",
                         "t": "All Day",
                         "n": "Forum Lottery",
-                        "g": "https://www.metin2sg.com/forum/wcf/user/106-tary/"
+                        "g": "https://www.metin2sg.com/forum/wcf/user/106-tary/","u":""
                     }
                 ]
             },
@@ -614,7 +614,7 @@ var jsonData = {
                         "i": "https://i.imgur.com/W6V1uZK.jpg",
                         "t": "16:00",
                         "n": "Forum Lottery",
-                        "g": "https://www.metin2sg.com/forum/wcf/user/106-tary/"
+                        "g": "https://www.metin2sg.com/forum/wcf/user/106-tary/","u":""
                     }
                 ]
             },
@@ -739,7 +739,7 @@ var jsonData = {
                         "i": "https://i.imgur.com/W6V1uZK.jpg",
                         "t": "All Day",
                         "n": "Forum Lottery",
-                        "g": "https://www.metin2sg.com/forum/wcf/user/106-tary/"
+                        "g": "https://www.metin2sg.com/forum/wcf/user/106-tary/","u":""
                     }
                 ]
             },
@@ -762,7 +762,7 @@ var jsonData = {
                         "i": "https://i.imgur.com/W6V1uZK.jpg",
                         "t": "All Day",
                         "n": "Forum Lottery",
-                        "g": "https://www.metin2sg.com/forum/wcf/user/106-tary/"
+                        "g": "https://www.metin2sg.com/forum/wcf/user/106-tary/","u":""
                     }
                 ]
             },
@@ -779,7 +779,7 @@ var jsonData = {
                         "i": "https://i.imgur.com/W6V1uZK.jpg",
                         "t": "All Day",
                         "n": "Forum Lottery",
-                        "g": "https://www.metin2sg.com/forum/wcf/user/106-tary/"
+                        "g": "https://www.metin2sg.com/forum/wcf/user/106-tary/","u":""
                     }
                 ]
             },
@@ -796,7 +796,7 @@ var jsonData = {
                         "i": "https://i.imgur.com/W6V1uZK.jpg",
                         "t": "All Day",
                         "n": "Forum Lottery",
-                        "g": "https://www.metin2sg.com/forum/wcf/user/106-tary/"
+                        "g": "https://www.metin2sg.com/forum/wcf/user/106-tary/","u":""
                     }
                 ]
             },
@@ -811,7 +811,7 @@ var jsonData = {
                         "i": "https://i.imgur.com/W6V1uZK.jpg",
                         "t": "16:00",
                         "n": "Forum Lottery",
-                        "g": "https://www.metin2sg.com/forum/wcf/user/106-tary/"
+                        "g": "https://www.metin2sg.com/forum/wcf/user/106-tary/","u":""
                     }
                 ]
             },
