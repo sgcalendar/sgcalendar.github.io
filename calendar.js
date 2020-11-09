@@ -124,8 +124,11 @@ function CreateDay(day, data) {
                 div.addEventListener("mouseenter", function (obj) {
                     hovering = true;
                     var dd = dynamicDays[obj.target.dataset.index];
-                    document.getElementById("calendar-hero-img").src = dd.e[loopInc % dd.e.length].u;
+                    var img = dd.e[loopInc % dd.e.length].u;
+                    if (img && img !== undefined) {
+                    document.getElementById("calendar-hero-img").src = img;
                     title.className = "hidden";
+                    }
                 });
 
                 div.addEventListener("mouseleave", function () {
@@ -246,8 +249,8 @@ function sidebarEntry(day, som) {
 
     if (day.u && day.u !== undefined) {
         li.addEventListener("mouseenter", function () {
-                document.getElementById("calendar-hero-img").src = day.u;
-                title.className = "hidden";
+            document.getElementById("calendar-hero-img").src = day.u;
+            title.className = "hidden";
         });
 
         li.addEventListener("mouseleave", function () {
