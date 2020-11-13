@@ -605,6 +605,10 @@ var jsonData = {
             {
                 "d": 13,
                 "e": [{
+                    "i": "https://i.imgur.com/fihlJd5.png",
+                    "t": "16:00",
+                    "n": "Gold Fever"
+                }, {
                     "i": "https://i.imgur.com/M015dld.png",
                     "t": "16:00",
                     "n": "DT Run",
