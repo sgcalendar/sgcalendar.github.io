@@ -98,13 +98,7 @@ var jsonData = {
                         "n": "Vein Spawn",
                         "u": "https://i.imgur.com/JOiieaI.jpg",
                         "f": 0
-                    },
-                    {
-                        "i": "https://i.imgur.com/W6V1uZK.jpg",
-                        "t": "All Day",
-                        "n": "Forum Lottery",
-                        "g": "https://www.metin2sg.com/forum/wcf/user/106-tary/","u":""
-                    }
+                    } 
                 ]
             },
             {
@@ -115,13 +109,7 @@ var jsonData = {
                         "n": "OX Event",
                         "u": "https://i.imgur.com/Kc7IsVi.jpg",
                         "f": 0
-                    },
-                    {
-                        "i": "https://i.imgur.com/W6V1uZK.jpg",
-                        "t": "All Day",
-                        "n": "Forum Lottery",
-                        "g": "https://www.metin2sg.com/forum/wcf/user/106-tary/","u":""
-                    }
+                    } 
                 ]
             },
             {
@@ -132,13 +120,7 @@ var jsonData = {
                         "u": "https://i.imgur.com/UzL4RIf.jpg",
                         "n": "Boss Spawn",
                         "g": "https://www.metin2sg.com/forum/thread/7167-event-boss-spawn/"
-                    },
-                    {
-                        "i": "https://i.imgur.com/W6V1uZK.jpg",
-                        "t": "All Day",
-                        "n": "Forum Lottery",
-                        "g": "https://www.metin2sg.com/forum/wcf/user/106-tary/","u":""
-                    }
+                    } 
                 ]
             },
             {
@@ -155,13 +137,7 @@ var jsonData = {
                         "u": "https://i.imgur.com/9BgHnmP.jpg",
                         "t": "All Day",
                         "n": "Moonlight Box"
-                    },
-                    {
-                        "i": "https://i.imgur.com/W6V1uZK.jpg",
-                        "t": "All Day",
-                        "n": "Forum Lottery",
-                        "g": "https://www.metin2sg.com/forum/wcf/user/106-tary/","u":""
-                    }
+                    } 
                 ]
             },
             {
@@ -300,13 +276,7 @@ var jsonData = {
                         "n": "Vein Spawn",
                         "u": "https://i.imgur.com/JOiieaI.jpg",
                         "f": 0
-                    },
-                    {
-                        "i": "https://i.imgur.com/W6V1uZK.jpg",
-                        "t": "All Day",
-                        "n": "Forum Lottery",
-                        "g": "https://www.metin2sg.com/forum/wcf/user/106-tary/","u":""
-                    }
+                    } 
                 ]
             },
             {
@@ -323,13 +293,7 @@ var jsonData = {
                         "u": "https://i.imgur.com/9BgHnmP.jpg",
                         "t": "All Day",
                         "n": "Moonlight Box"
-                    },
-                    {
-                        "i": "https://i.imgur.com/W6V1uZK.jpg",
-                        "t": "All Day",
-                        "n": "Forum Lottery",
-                        "g": "https://www.metin2sg.com/forum/wcf/user/106-tary/","u":""
-                    }
+                    } 
                 ]
             },
             {
@@ -340,13 +304,7 @@ var jsonData = {
                         "u": "https://i.imgur.com/UzL4RIf.jpg",
                         "n": "Boss Spawn",
                         "g": "https://www.metin2sg.com/forum/thread/7167-event-boss-spawn/"
-                    },
-                    {
-                        "i": "https://i.imgur.com/W6V1uZK.jpg",
-                        "t": "All Day",
-                        "n": "Forum Lottery",
-                        "g": "https://www.metin2sg.com/forum/wcf/user/106-tary/","u":""
-                    }
+                    } 
                 ]
             },
             {
@@ -357,13 +315,7 @@ var jsonData = {
                         "n": "OX Event",
                         "u": "https://i.imgur.com/Kc7IsVi.jpg",
                         "f": 0
-                    },
-                    {
-                        "i": "https://i.imgur.com/W6V1uZK.jpg",
-                        "t": "All Day",
-                        "n": "Forum Lottery",
-                        "g": "https://www.metin2sg.com/forum/wcf/user/106-tary/","u":""
-                    }
+                    } 
                 ]
             },
             {
@@ -520,54 +472,27 @@ var jsonData = {
             },
             {
                 "d": 7,
-                "e": [{
                         "i": "https://i.imgur.com/dAm7jFf.png",
                         "t": "16:00",
                         "n": "Vein Spawn",
                         "u": "https://i.imgur.com/JOiieaI.jpg",
                         "f": 0
-                    },
-                    {
-                        "i": "https://i.imgur.com/W6V1uZK.jpg",
-                        "t": "All Day",
-                        "n": "Forum Lottery",
-                        "g": "https://www.metin2sg.com/forum/wcf/user/106-tary/","u":""
-                    }
-                ]
             },
             {
                 "d": 8,
-                "e": [{
                         "i": "https://i.imgur.com/IllUyVq.png",
                         "t": "16:00",
                         "n": "OX Event",
                         "u": "https://i.imgur.com/Kc7IsVi.jpg",
                         "f": 0
-                    },
-                    {
-                        "i": "https://i.imgur.com/W6V1uZK.jpg",
-                        "t": "All Day",
-                        "n": "Forum Lottery",
-                        "g": "https://www.metin2sg.com/forum/wcf/user/106-tary/","u":""
-                    }
-                ]
             },
             {
                 "d": 9,
-                "e": [{
                         "i": "https://i.imgur.com/CQMpPqr.png",
                         "t": "16:00",
                         "u": "https://i.imgur.com/UzL4RIf.jpg",
                         "n": "Boss Spawn",
                         "g": "https://www.metin2sg.com/forum/thread/7167-event-boss-spawn/"
-                    },
-                    {
-                        "i": "https://i.imgur.com/W6V1uZK.jpg",
-                        "t": "All Day",
-                        "n": "Forum Lottery",
-                        "g": "https://www.metin2sg.com/forum/wcf/user/106-tary/","u":""
-                    }
-                ]
             },
             {
                 "d": 10,
@@ -583,13 +508,7 @@ var jsonData = {
                         "u": "https://i.imgur.com/9BgHnmP.jpg",
                         "t": "All Day",
                         "n": "Moonlight Box"
-                    },
-                    {
-                        "i": "https://i.imgur.com/W6V1uZK.jpg",
-                        "t": "All Day",
-                        "n": "Forum Lottery",
-                        "g": "https://www.metin2sg.com/forum/wcf/user/106-tary/","u":""
-                    }
+                    } 
                 ]
             },
             {
@@ -603,12 +522,6 @@ var jsonData = {
                     "t": "16:00",
                     "n": "DT Run",
                     "u": "https://i.imgur.com/l9rRJLi.jpg"
-                    },
-                    {
-                        "i": "https://i.imgur.com/W6V1uZK.jpg",
-                        "t": "16:00",
-                        "n": "Forum Lottery",
-                        "g": "https://www.metin2sg.com/forum/wcf/user/106-tary/","u":""
                     }
                 ]
             },
@@ -722,20 +635,11 @@ var jsonData = {
             },
             {
                 "d": 21,
-                "e": [{
                         "i": "https://i.imgur.com/dAm7jFf.png",
                         "t": "16:00",
                         "n": "Vein Spawn",
                         "u": "https://i.imgur.com/JOiieaI.jpg",
                         "f": 0
-                    },
-                    {
-                        "i": "https://i.imgur.com/W6V1uZK.jpg",
-                        "t": "All Day",
-                        "n": "Forum Lottery",
-                        "g": "https://www.metin2sg.com/forum/wcf/user/106-tary/","u":""
-                    }
-                ]
             },
             {
                 "d": 22,
@@ -751,63 +655,30 @@ var jsonData = {
                         "u": "https://i.imgur.com/9BgHnmP.jpg",
                         "t": "All Day",
                         "n": "Moonlight Box"
-                    },
-                    {
-                        "i": "https://i.imgur.com/W6V1uZK.jpg",
-                        "t": "All Day",
-                        "n": "Forum Lottery",
-                        "g": "https://www.metin2sg.com/forum/wcf/user/106-tary/","u":""
-                    }
+                    } 
                 ]
             },
             {
                 "d": 23,
-                "e": [{
                         "i": "https://i.imgur.com/CQMpPqr.png",
                         "t": "16:00",
                         "u": "https://i.imgur.com/UzL4RIf.jpg",
                         "n": "Boss Spawn",
                         "g": "https://www.metin2sg.com/forum/thread/7167-event-boss-spawn/"
-                    },
-                    {
-                        "i": "https://i.imgur.com/W6V1uZK.jpg",
-                        "t": "All Day",
-                        "n": "Forum Lottery",
-                        "g": "https://www.metin2sg.com/forum/wcf/user/106-tary/","u":""
-                    }
-                ]
             },
             {
                 "d": 24,
-                "e": [{
                         "i": "https://i.imgur.com/IllUyVq.png",
                         "t": "20:00",
                         "n": "OX Event",
                         "u": "https://i.imgur.com/Kc7IsVi.jpg",
                         "f": 0
-                    },
-                    {
-                        "i": "https://i.imgur.com/W6V1uZK.jpg",
-                        "t": "All Day",
-                        "n": "Forum Lottery",
-                        "g": "https://www.metin2sg.com/forum/wcf/user/106-tary/","u":""
-                    }
-                ]
             },
             {
                 "d": 25,
-                "e": [{
                         "i": "https://i.imgur.com/fihlJd5.png",
                         "t": "16:00",
                         "n": "Gold Fever"
-                    },
-                    {
-                        "i": "https://i.imgur.com/W6V1uZK.jpg",
-                        "t": "16:00",
-                        "n": "Forum Lottery",
-                        "g": "https://www.metin2sg.com/forum/wcf/user/106-tary/","u":""
-                    }
-                ]
             },
             {
                 "d": 26,
