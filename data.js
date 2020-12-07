@@ -480,11 +480,20 @@ var jsonData = {
             },
             {
                 "d": 8,
+                "e": [{
                         "i": "https://i.imgur.com/IllUyVq.png",
                         "t": "16:00",
                         "n": "OX Event",
                         "u": "https://i.imgur.com/Kc7IsVi.jpg",
                         "f": 0
+                    },
+                    {
+                        "i": "https://i.imgur.com/SRFNp3n.png",
+                        "t": "17:00",
+                        "n": "Fishing Extravaganza",
+                        "u": "https://i.imgur.com/AAAnsjL.jpg"
+                    } 
+                ]
             },
             {
                 "d": 9,
