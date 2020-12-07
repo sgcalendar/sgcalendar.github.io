@@ -491,7 +491,8 @@ var jsonData = {
                         "i": "https://i.imgur.com/SRFNp3n.png",
                         "t": "17:00",
                         "n": "Fishing Extravaganza",
-                        "u": "https://i.imgur.com/AAAnsjL.jpg"
+                        "u": "https://i.imgur.com/AAAnsjL.jpg",
+                        "f": 0
                     } 
                 ]
             },
