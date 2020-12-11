@@ -546,7 +546,7 @@ var jsonData = {
                     {
                         "i": "https://i.imgur.com/LmwH11a.png",
                         "u": "https://i.imgur.com/AilHpWj.jpg",
-                        "t": "17:00",
+                        "t": "15:00",
                         "n": "Budokan PvP"
                     }
                 ]
@@ -627,7 +627,7 @@ var jsonData = {
                     },
                     {
                         "i": "https://i.imgur.com/SRFNp3n.png",
-                        "t": "17:00",
+                        "t": "15:00",
                         "n": "Fishing Extravaganza",
                         "u": "https://i.imgur.com/AAAnsjL.jpg",
                         "f": 0
@@ -713,7 +713,7 @@ var jsonData = {
                     },
                     {
                         "i": "https://i.imgur.com/SRFNp3n.png",
-                        "t": "17:00",
+                        "t": "15:00",
                         "n": "Fishing Extravaganza",
                         "u": "https://i.imgur.com/AAAnsjL.jpg",
                         "f": 0
