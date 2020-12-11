@@ -523,17 +523,10 @@ var jsonData = {
             },
             {
                 "d": 11,
-                "e": [{
-                    "i": "https://i.imgur.com/fihlJd5.png",
-                    "t": "16:00",
-                    "n": "Gold Fever"
-                }, {
-                    "i": "https://i.imgur.com/M015dld.png",
-                    "t": "16:00",
-                    "n": "DT Run",
-                    "u": "https://i.imgur.com/l9rRJLi.jpg"
-                    }
-                ]
+                "i": "https://i.imgur.com/M015dld.png",
+                "t": "16:00",
+                "n": "DT Run",
+                "u": "https://i.imgur.com/l9rRJLi.jpg"
             },
             {
                 "d": 12,
