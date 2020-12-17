@@ -382,9 +382,9 @@ var jsonData = {
     "112020": {
         "y": 2020,
         "m": 11,
-        "som": "https://i.imgur.com/kyBeVjJ.jpg",
-        "tc": "184d47",
-        "ec": "96bb7c",
+        "som": "https://i.imgur.com/Pf8tY11.png",
+        "tc": "8E0C0C",
+        "ec": "17316D",
         "days": [
             {
                 "d": 0,
@@ -600,95 +600,51 @@ var jsonData = {
             },
             {
                 "d": 18,
-                "i": "./images/logo.png",
-                "t": "16:00",
-                "n": "Horse Race"
+                "i": "https://i.imgur.com/ulPEdIP.png",
+                "t": "18:00",
+                "n": "Christmas"
             },
             {
                 "d": 19,
-                "e": [{
-                        "i": "https://i.imgur.com/5HTFviS.png",
-                        "t": "All Day",
-                        "n": "Mystery Box",
-                        "u": "https://i.imgur.com/kB9HwLy.png"
-                    },
-                    {
-                        "i": "https://i.imgur.com/LmwH11a.png",
-                        "u": "https://i.imgur.com/AilHpWj.jpg",
-                        "t": "17:00",
-                        "n": "Budokan PvP"
-                    },
-                    {
-                        "i": "https://i.imgur.com/SRFNp3n.png",
-                        "t": "15:00",
-                        "n": "Fishing Extravaganza",
-                        "u": "https://i.imgur.com/AAAnsjL.jpg",
-                        "f": 0
-                    }
-                ]
+                "i": "https://i.imgur.com/ulPEdIP.png",
+                "t": "All Day",
+                "n": "Christmas"
             },
             {
                 "d": 20,
-                "e": [{
-                        "i": "https://i.imgur.com/5HTFviS.png",
-                        "t": "All Day",
-                        "n": "Mystery Box",
-                        "u": "https://i.imgur.com/kB9HwLy.png"
-                    },
-                    {
-                        "i": "./images/logo.png",
-                        "g": "",
-                        "t": "15:00",
-                        "n": "Nation War"
-                    }
-                ]
+                "i": "https://i.imgur.com/ulPEdIP.png",
+                "t": "All Day",
+                "n": "Christmas"
             },
             {
                 "d": 21,
-                        "i": "https://i.imgur.com/dAm7jFf.png",
-                        "t": "16:00",
-                        "n": "Vein Spawn",
-                        "u": "https://i.imgur.com/JOiieaI.jpg",
-                        "f": 0
+                "i": "https://i.imgur.com/ulPEdIP.png",
+                "t": "All Day",
+                "n": "Christmas"
             },
             {
                 "d": 22,
-                "e": [{
-                        "i": "https://i.imgur.com/IllUyVq.png",
-                        "t": "16:00",
-                        "n": "OX Event",
-                        "u": "https://i.imgur.com/Kc7IsVi.jpg",
-                        "f": 0
-                    },
-                    {
-                        "i": "https://i.imgur.com/zGm6lA5.png",
-                        "u": "https://i.imgur.com/9BgHnmP.jpg",
-                        "t": "All Day",
-                        "n": "Moonlight Box"
-                    } 
-                ]
+                "i": "https://i.imgur.com/ulPEdIP.png",
+                "t": "All Day",
+                "n": "Christmas"
             },
             {
                 "d": 23,
-                        "i": "https://i.imgur.com/CQMpPqr.png",
-                        "t": "16:00",
-                        "u": "https://i.imgur.com/UzL4RIf.jpg",
-                        "n": "Boss Spawn",
-                        "g": "https://www.metin2sg.com/forum/thread/7167-event-boss-spawn/"
+                "i": "https://i.imgur.com/ulPEdIP.png",
+                "t": "All Day",
+                "n": "Christmas"
             },
             {
                 "d": 24,
-                        "i": "https://i.imgur.com/IllUyVq.png",
-                        "t": "20:00",
-                        "n": "OX Event",
-                        "u": "https://i.imgur.com/Kc7IsVi.jpg",
-                        "f": 0
+                "i": "https://i.imgur.com/ulPEdIP.png",
+                "t": "All Day",
+                "n": "Christmas"
             },
             {
                 "d": 25,
-                        "i": "https://i.imgur.com/fihlJd5.png",
-                        "t": "16:00",
-                        "n": "Gold Fever"
+                "i": "https://i.imgur.com/ulPEdIP.png",
+                "t": "Ends at 18:00",
+                "n": "Christmas"
             },
             {
                 "d": 26,
