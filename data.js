@@ -666,11 +666,6 @@ var jsonData = {
                         "n": "Fishing Extravaganza",
                         
                         "f": 0
-                    },
-                    {
-                        "i": "./images/logo.png",
-                        "t": "14:00",
-                        "n": "Dungeon Masters"
                     }
                 ]
             },
