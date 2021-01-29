@@ -380,7 +380,7 @@ var jsonData = {
                 "d": 29,
                 "i": "./images/logo.png",
                 "t": "16:00",
-                "n": "Find The GM"
+                "n": "Hunter's Hour"
             },
             {
                 "d": 30,
