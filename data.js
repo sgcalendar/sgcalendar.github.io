@@ -573,47 +573,24 @@ var jsonData = {
             },
             {
                 "d": 12,
-                "i": "https://i.imgur.com/fihlJd5.png",
-                "t": "16:00",
-                "n": "Gold Fever"
+                "i": "https://i.imgur.com/8x1bE2C.png",
+                "g": "http://www.metin2sg.com/forum/thread/7949-valentine-s-event-2021/",
+                "t": "All Day",
+                "n": "St. Valentine's"
             },
             {
                 "d": 13,
-                "e": [{
-                    "i": "https://i.imgur.com/5HTFviS.png",
-                    "t": "All Day",
-                    "n": "Mystery Box",
-                    "u": "https://i.imgur.com/kB9HwLy.png"
-                },
-                {
-                    "i": "https://i.imgur.com/LmwH11a.png",
-
-                    "t": "17:00",
-                    "n": "Budokan PvP"
-                },
-                {
-                    "i": "https://i.imgur.com/SRFNp3n.png",
-                    "t": "15:00",
-                    "n": "Fishing Extravaganza",
-                    "f": 0
-                }
-                ]
+                "i": "https://i.imgur.com/8x1bE2C.png",
+                "g": "http://www.metin2sg.com/forum/thread/7949-valentine-s-event-2021/",
+                "t": "All Day",
+                "n": "St. Valentine's"
             },
             {
                 "d": 14,
-                "e": [{
-                    "i": "https://i.imgur.com/5HTFviS.png",
-                    "t": "All Day",
-                    "n": "Mystery Box",
-                    "u": "https://i.imgur.com/kB9HwLy.png"
-                },
-                {
-                    "i": "./images/logo.png",
-                    "g": "",
-                    "t": "17:00",
-                    "n": "Nation War"
-                }
-                ]
+                "i": "https://i.imgur.com/8x1bE2C.png",
+                "g": "http://www.metin2sg.com/forum/thread/7949-valentine-s-event-2021/",
+                "t": "All Day",
+                "n": "St. Valentine's"
             },
             {
                 "d": 15,
