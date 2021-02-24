@@ -673,7 +673,7 @@ var jsonData = {
                 {
                     "i": "./images/logo.png",
                     "g": "",
-                    "t": "15:00",
+                    "t": "16:00",
                     "n": "Nation War"
                 }
                 ]
@@ -698,7 +698,7 @@ var jsonData = {
                 "e": [{
                     "i": "https://i.imgur.com/O6Irvei.png",
                     "u": "https://i.imgur.com/nFRv4gz.png",
-                    "t": "16:00",
+                    "t": "17:00",
                     "n": "Metin Spawn"
                 },
                 {
@@ -720,7 +720,7 @@ var jsonData = {
             {
                 "d": 26,
                 "i": "./images/logo.png",
-                "t": "16:00",
+                "t": "17:00",
                 "n": "Find The GM"
             },
             {
