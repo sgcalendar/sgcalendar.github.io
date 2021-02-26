@@ -719,9 +719,9 @@ var jsonData = {
             },
             {
                 "d": 26,
-                "i": "./images/logo.png",
+                "i": "https://i.imgur.com/fihlJd5.png",
                 "t": "17:00",
-                "n": "Find The GM"
+                "n": "Gold Fever"
             },
             {
                 "d": 27,
