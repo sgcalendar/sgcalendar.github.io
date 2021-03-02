@@ -116,7 +116,7 @@ var jsonData = {
             {
                 "d": 9,
                 "i": "https://i.imgur.com/IllUyVq.png",
-                "t": "17:00",
+                "t": "16:00",
                 "n": "OX Event",
                 "u": "https://i.imgur.com/Kc7IsVi.jpg",
                 "f": 0
@@ -198,7 +198,7 @@ var jsonData = {
                 "d": 16,
                 "e": [{
                     "i": "https://i.imgur.com/IllUyVq.png",
-                    "t": "17:00",
+                    "t": "16:00",
                     "n": "OX Event",
                     "u": "https://i.imgur.com/Kc7IsVi.jpg",
                     "f": 0
@@ -282,7 +282,7 @@ var jsonData = {
             {
                 "d": 23,
                 "i": "https://i.imgur.com/IllUyVq.png",
-                "t": "17:00",
+                "t": "16:00",
                 "n": "OX Event",
                 "u": "https://i.imgur.com/Kc7IsVi.jpg",
                 "f": 0
@@ -371,7 +371,7 @@ var jsonData = {
             {
                 "d": 30,
                     "i": "https://i.imgur.com/IllUyVq.png",
-                    "t": "17:00",
+                    "t": "16:00",
                     "n": "OX Event",
                     "u": "https://i.imgur.com/Kc7IsVi.jpg",
                     "f": 0
