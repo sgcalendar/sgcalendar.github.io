@@ -100,18 +100,10 @@ var jsonData = {
             },
             {
                 "d": 8,
-                "e": [{
-                    "i": "./images/logo.png",
-                    "t": "17:00",
-                    "n": "Tanaka Hunt"
-                },
-                {
                     "i": "https://i.imgur.com/zGm6lA5.png",
                     "u": "https://i.imgur.com/9BgHnmP.jpg",
                     "t": "All Day",
                     "n": "Moonlight Box"
-                }
-                ]
             },
             {
                 "d": 9,
