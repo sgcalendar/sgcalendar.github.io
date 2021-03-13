@@ -169,12 +169,6 @@ var jsonData = {
                     "g": "",
                     "t": "17:00",
                     "n": "Nation War"
-                },
-                {
-                    "i": "./images/logo.png",
-                    "g": "",
-                    "t": "14:00",
-                    "n": "PvM King"
                 }
                 ]
             },
