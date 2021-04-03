@@ -214,7 +214,6 @@ function CreateSidebarDay(day, som, sidebar) {
 }
 
 function sidebarEntry(day, som) {
-    console.log(day.n);
     var li = document.createElement("li");
     li.className = "box24";
     var el = document.createElement("a");
@@ -241,11 +240,7 @@ function sidebarEntry(day, som) {
     el2.appendChild(el);
     el2 = document.createElement("small");
     div.appendChild(el2);
-    if (day.n != "Easter Event") {
         el2.innerHTML = day.t !== "" ? day.d + " " + monthNames[calendarDate.getMonth()] + " - " : day.d + " " + monthNames[calendarDate.getMonth()];
-    } else {
-        el2.innerHTML = day.t !== "" ? day.d + " " + monthNames[calendarDate.getMonth()+1] + " - " : day.d + " " + monthNames[calendarDate.getMonth()];
-    }
     if (day.t === "" || day.t === "All Day")
         el2.innerHTML += day.t;
     else
