@@ -214,6 +214,7 @@ function CreateSidebarDay(day, som, sidebar) {
 }
 
 function sidebarEntry(day, som) {
+    console.log(day.n);
     var li = document.createElement("li");
     li.className = "box24";
     var el = document.createElement("a");
