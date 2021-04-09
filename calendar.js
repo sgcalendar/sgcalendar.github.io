@@ -440,4 +440,12 @@ setInterval(function () {
     }
 }, 1000);
 
-console.log(window.location.href);
+function inIframe () {
+    try {
+        return window.self !== window.top;
+    } catch (e) {
+        return true;
+    }
+}
+
+console.log(inIframe());
