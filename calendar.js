@@ -439,3 +439,5 @@ setInterval(function () {
         }
     }
 }, 1000);
+
+console.log(window.location.href);
