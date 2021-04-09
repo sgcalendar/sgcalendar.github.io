@@ -448,4 +448,6 @@ function inIframe () {
     }
 }
 
-console.log(inIframe());
+if (!inIframe()) {
+    document.location.href = "https://www.metin2sg.com/Calendar";
+}
