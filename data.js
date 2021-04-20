@@ -595,19 +595,13 @@ var jsonData = {
             },
             {
                 "d": 20,
+                "e": [{
                 "i": "https://i.imgur.com/IllUyVq.png",
                 "t": "16:00",
                 "n": "OX Event",
                 "u": "https://i.imgur.com/Kc7IsVi.jpg",
                 "f": 0
-            },
-            {
-                "d": 21,
-                "e": [{
-                    "i": "https://i.imgur.com/O6Irvei.png",
-                    "u": "https://i.imgur.com/nFRv4gz.png",
-                    "t": "16:00",
-                    "n": "Metin Spawn"
+                    
                 },
                 {
                     "i": "https://i.imgur.com/zGm6lA5.png",
@@ -616,6 +610,13 @@ var jsonData = {
                     "n": "Moonlight Box"
                 }
                 ]
+            },
+            {
+                "d": 21,
+                    "i": "https://i.imgur.com/O6Irvei.png",
+                    "u": "https://i.imgur.com/nFRv4gz.png",
+                    "t": "16:00",
+                    "n": "Metin Spawn"
             },
             {
                 "d": 22,
