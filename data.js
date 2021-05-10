@@ -420,19 +420,9 @@ var jsonData = {
             },
             {
                 "d": 31,
-                "e": [{
                         "i": "./images/logo.png",
                         "t": "16:00",
                         "n": "Tanaka Hunt"
-                    },
-                    {
-
-                        "i": "https://i.imgur.com/zGm6lA5.png",
-                        "u": "https://i.imgur.com/9BgHnmP.jpg",
-                        "t": "All Day",
-                        "n": "Moonlight Box"
-                    }
-                ]
             }
         ]
     }
