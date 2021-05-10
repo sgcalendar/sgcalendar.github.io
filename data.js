@@ -255,25 +255,25 @@ var jsonData = {
             },
             {
                 "d": 18,
+                "e": [{
                 "i": "https://i.imgur.com/IllUyVq.png",
                 "t": "16:00",
                 "n": "OX Event",
                 "u": "https://i.imgur.com/Kc7IsVi.jpg",
                 "f": 0
+            }, {
+                "i": "https://i.imgur.com/zGm6lA5.png",
+                "u": "https://i.imgur.com/9BgHnmP.jpg",
+                "t": "All Day",
+                "n": "Moonlight Box"
+            }]
             },
             {
                 "d": 19,
-                "e": [{
                     "i": "https://i.imgur.com/O6Irvei.png",
                     "u": "https://i.imgur.com/nFRv4gz.png",
                     "t": "16:00",
                     "n": "Metin Spawn"
-                }, {
-                    "i": "https://i.imgur.com/zGm6lA5.png",
-                    "u": "https://i.imgur.com/9BgHnmP.jpg",
-                    "t": "All Day",
-                    "n": "Moonlight Box"
-                }]
             },
             {
                 "d": 20,
@@ -345,6 +345,7 @@ var jsonData = {
             },
             {
                 "d": 26,
+                "e": [{
                 "i": "https://i.imgur.com/CQMpPqr.png",
                 "t": "16:00",
                 "u": "https://i.imgur.com/UzL4RIf.jpg",
@@ -352,22 +353,21 @@ var jsonData = {
                 "g": "https://www.metin2sg.com/forum/thread/7167-event-boss-spawn/"
             },
             {
+
+                "i": "https://i.imgur.com/zGm6lA5.png",
+                "u": "https://i.imgur.com/9BgHnmP.jpg",
+                "t": "All Day",
+                "n": "Moonlight Box"
+            }
+        ]
+            },
+            {
                 "d": 27,
-                "e": [{
                         "i": "https://i.imgur.com/IllUyVq.png",
                         "t": "20:00",
                         "n": "OX Event",
                         "u": "https://i.imgur.com/Kc7IsVi.jpg",
                         "f": 0
-                    },
-                    {
-
-                        "i": "https://i.imgur.com/zGm6lA5.png",
-                        "u": "https://i.imgur.com/9BgHnmP.jpg",
-                        "t": "All Day",
-                        "n": "Moonlight Box"
-                    }
-                ]
             },
             {
                 "d": 28,
