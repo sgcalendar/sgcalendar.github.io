@@ -381,7 +381,7 @@ function NextMajorEvent(today, data) {
 
     day = null;
     sidebar = document.getElementById("major-sidebar");
-    let options = ["Moonlight Box", "Dungeon Masters", "PvM King", "Fishing Extravaganza", "Easter", "Halloween"];
+    let options = ["Moonlight Box", "Dungeon Masters", "PvM King", "Fishing Extravaganza", "Easter", "Halloween", "Euro Cup"];
     for (i = 0; i < data.days.length; i++) {
         day = data.days[i];
         if (day.d > today) {
@@ -439,15 +439,3 @@ setInterval(function () {
         }
     }
 }, 1000);
-
-function inIframe () {
-    try {
-        return window.self !== window.top;
-    } catch (e) {
-        return true;
-    }
-}
-
-if (!inIframe()) {
-    document.location.href = "https://www.metin2sg.com/Calendar";
-}
