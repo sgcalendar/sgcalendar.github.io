@@ -65,6 +65,7 @@ function CalendarInit() {
                 }
                 for (i = day0Count; i < excess + day0Count; i++) {
                     day = nextData.days[i];
+                    day.month = calendarDate.getMonth() + 1;
                     CreateSidebarDay(day, data.som, sidebar);
                 }
             }
@@ -76,6 +77,7 @@ function CalendarInit() {
 }
 
 var dynamicDays = [];
+
 function CreateDay(day, data) {
     var helper = day;
     if (day.e !== undefined) {
@@ -126,8 +128,8 @@ function CreateDay(day, data) {
                     var dd = dynamicDays[obj.target.dataset.index];
                     var img = dd.e[loopInc % dd.e.length].u;
                     if (img && img !== undefined) {
-                    document.getElementById("calendar-hero-img").src = img;
-                    title.className = "hidden";
+                        document.getElementById("calendar-hero-img").src = img;
+                        title.className = "hidden";
                     }
                 });
 
@@ -204,6 +206,8 @@ function CreateSidebarDay(day, som, sidebar) {
             }
             d = day.e[i];
             d.d = day.d;
+            if (day.month !== undefined)
+                d.month = day.month;
             li = sidebarEntry(d, som);
             sidebar.appendChild(li);
         }
@@ -214,7 +218,6 @@ function CreateSidebarDay(day, som, sidebar) {
 }
 
 function sidebarEntry(day, som) {
-    console.log(day.n);
     var li = document.createElement("li");
     li.className = "box24";
     var el = document.createElement("a");
@@ -241,7 +244,7 @@ function sidebarEntry(day, som) {
     el2.appendChild(el);
     el2 = document.createElement("small");
     div.appendChild(el2);
-        el2.innerHTML = day.t !== "" ? day.d + " " + monthNames[calendarDate.getMonth()] + " - " : day.d + " " + monthNames[calendarDate.getMonth()];
+    el2.innerHTML = day.t !== "" ? day.d + " " + monthNames[day.month ? day.month : calendarDate.getMonth()] + " - " : day.d + " " + monthNames[day.month ? day.month : calendarDate.getMonth()];
     if (day.t === "" || day.t === "All Day")
         el2.innerHTML += day.t;
     else
@@ -288,6 +291,7 @@ function previousMonth() {
     CalendarInit();
 }
 var count = 1;
+
 function nextMonth() {
     if (++count === 5) return;
     var m = calendarDate.getMonth() + 1;
@@ -299,7 +303,7 @@ function nextMonth() {
         calendarDate.setDate(1);
         calendarDate.setMonth(m);
     }
-    
+
     var date = new Date();
     if (date.getMonth === calendarDate.getMonth()) {
         calendarDate.setUTCDate(date.getUTCDate());
@@ -332,7 +336,7 @@ function nextPrevMonthExists() {
         document.getElementById("calendar-next").style.width = "0px";
     }
 
-    m = calendarDate.getMonth() - 1;// prev
+    m = calendarDate.getMonth() - 1; // prev
     if (m < 0) {
         newDate = new Date(calendarDate.getFullYear() - 1, 11);
     } else {
@@ -397,7 +401,7 @@ function NextMajorEvent(today, data) {
                 }
             } else {
                 if (options.includes(day.n)) {
-                    options = options.filter(v => v !== day.n); 
+                    options = options.filter(v => v !== day.n);
                     sidebar.appendChild(sidebarEntry(day, data.som));
                 }
             }
