@@ -375,9 +375,13 @@ function NextMajorEvent(today, data) {
     if (day.e) {
         for (var i = 0; i < day.e.length; i++) {
             day.e[i].d = day.d;
+            if (nextMonth)
+                day.month = calendarDate.getMonth() + 1;
             sidebar.appendChild(sidebarEntry(day.e[i], data.som));
         }
     } else {
+        if (nextMonth)
+                day.month = calendarDate.getMonth() + 1;
         sidebar.appendChild(sidebarEntry(day, data.som));
     }
     if (nextMonth)
