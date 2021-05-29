@@ -744,6 +744,12 @@ var jsonData = {
                         "g": "",
                         "t": "16:00",
                         "n": "Nation War"
+                    },
+                    {
+                        "i": "./images/logo.png",
+                        "g": "",
+                        "t": "10:00",
+                        "n": "Dungeon Masters"
                     }
                 ]
             },
