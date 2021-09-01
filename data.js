@@ -828,9 +828,9 @@ var jsonData = {
     "82021": {
         "y": 2021,
         "m": 7,
-        "som": "https://i.imgur.com/ee62cP2.png",
-        "tc": "235999",
-        "ec": "a3c6f8",
+        "som": "https://i.imgur.com/zKLbZZI.png",
+        "tc": "71856a",
+        "ec": "6c707a",
         "days": [
             {
                 "d": 0,
