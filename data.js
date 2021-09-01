@@ -868,10 +868,9 @@ var jsonData = {
             },
             {
                 "d": 3,
-                "i": "./images/logo.png",
-                "g": null,
-                "t": "",
-                "n": ""
+                "i": "https://i.imgur.com/fihlJd5.png",
+                "t": "16:00",
+                "n": "Gold Fever"
             },
             {
                 "d": 4,
@@ -906,7 +905,7 @@ var jsonData = {
                 {
                     "i": "./images/logo.png",
                     "g": "",
-                    "t": "16:00",
+                    "t": "17:00",
                     "n": "Nation War"
                 }
                 ]
@@ -949,10 +948,10 @@ var jsonData = {
             },
             {
                 "d": 10,
-                "i": "./images/logo.png",
-                "g": null,
-                "t": "",
-                "n": ""
+                "i": "https://i.imgur.com/M015dld.png",
+                "t": "16:00",
+                "n": "DT Run",
+                "u": "https://i.imgur.com/l9rRJLi.jpg"
             },
             {
                 "d": 11,
@@ -987,7 +986,7 @@ var jsonData = {
                 {
                     "i": "./images/logo.png",
                     "g": "",
-                    "t": "17:00",
+                    "t": "15:00",
                     "n": "Nation War"
                 }
                 ]
@@ -1037,9 +1036,8 @@ var jsonData = {
             {
                 "d": 17,
                 "i": "./images/logo.png",
-                "g": null,
-                "t": "",
-                "n": ""
+                "t": "16:00",
+                "n": "Hunter's Hour"
             },
             {
                 "d": 18,
@@ -1074,7 +1072,7 @@ var jsonData = {
                 {
                     "i": "./images/logo.png",
                     "g": "",
-                    "t": "15:00",
+                    "t": "16:00",
                     "n": "Nation War"
                 }
                 ]
@@ -1119,10 +1117,10 @@ var jsonData = {
             },
             {
                 "d": 24,
-                "i": "./images/logo.png",
-                "g": null,
-                "t": "",
-                "n": ""
+                "i": "https://i.imgur.com/M015dld.png",
+                "t": "16:00",
+                "n": "DT Run",
+                "u": "https://i.imgur.com/l9rRJLi.jpg"
             },
             {
                 "d": 25,
@@ -1157,7 +1155,7 @@ var jsonData = {
                 {
                     "i": "./images/logo.png",
                     "g": "",
-                    "t": "16:00",
+                    "t": "17:00",
                     "n": "Nation War"
                 },
                 {
