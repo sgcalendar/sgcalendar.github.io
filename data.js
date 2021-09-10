@@ -854,16 +854,13 @@ var jsonData = {
                 "d": 1,
                 "i": "https://i.imgur.com/CQMpPqr.png",
                 "t": "16:00",
-                "u": "https://i.imgur.com/UzL4RIf.jpg",
-                "n": "Boss Spawn",
-                "g": "https://www.metin2sg.com/forum/thread/7167-event-boss-spawn/"
+                "n": "Boss Spawn"
             },
             {
                 "d": 2,
                 "i": "https://i.imgur.com/IllUyVq.png",
                 "t": "20:00",
                 "n": "OX Event",
-                "u": "https://i.imgur.com/Kc7IsVi.jpg",
                 "f": 0
             },
             {
@@ -877,12 +874,10 @@ var jsonData = {
                 "e": [{
                     "i": "https://i.imgur.com/nnJgE4E.png",
                     "t": "All Day",
-                    "n": "Hexagonal Box",
-                    "u": "https://i.imgur.com/kgPPMkZ.jpg"
+                    "n": "Hexagonal Box"
                 },
                 {
                     "i": "https://i.imgur.com/LmwH11a.png",
-
                     "t": "17:00",
                     "n": "Budokan PvP"
                 },
@@ -899,12 +894,10 @@ var jsonData = {
                 "e": [{
                     "i": "https://i.imgur.com/nnJgE4E.png",
                     "t": "All Day",
-                    "n": "Hexagonal Box",
-                    "u": "https://i.imgur.com/kgPPMkZ.jpg"
+                    "n": "Hexagonal Box"
                 },
                 {
                     "i": "./images/logo.png",
-                    "g": "",
                     "t": "17:00",
                     "n": "Nation War"
                 }
@@ -922,11 +915,9 @@ var jsonData = {
                     "i": "https://i.imgur.com/IllUyVq.png",
                     "t": "16:00",
                     "n": "OX Event",
-                    "u": "https://i.imgur.com/Kc7IsVi.jpg",
                     "f": 0
                 }, {
                     "i": "https://i.imgur.com/zGm6lA5.png",
-                    "u": "https://i.imgur.com/9BgHnmP.jpg",
                     "t": "All Day",
                     "n": "Moonlight Box"
                 }]
@@ -934,7 +925,6 @@ var jsonData = {
             {
                 "d": 8,
                 "i": "https://i.imgur.com/O6Irvei.png",
-                "u": "https://i.imgur.com/nFRv4gz.png",
                 "t": "16:00",
                 "n": "Metin Spawn"
             },
@@ -943,27 +933,23 @@ var jsonData = {
                 "i": "https://i.imgur.com/IllUyVq.png",
                 "t": "20:00",
                 "n": "OX Event",
-                "u": "https://i.imgur.com/Kc7IsVi.jpg",
                 "f": 0
             },
             {
                 "d": 10,
                 "i": "https://i.imgur.com/M015dld.png",
                 "t": "16:00",
-                "n": "DT Run",
-                "u": "https://i.imgur.com/l9rRJLi.jpg"
+                "n": "DT Run"
             },
             {
                 "d": 11,
                 "e": [{
                     "i": "https://i.imgur.com/5HTFviS.png",
                     "t": "All Day",
-                    "n": "Mystery Box",
-                    "u": "https://i.imgur.com/kB9HwLy.png"
+                    "n": "Mystery Box"
                 },
                 {
                     "i": "https://i.imgur.com/LmwH11a.png",
-
                     "t": "17:00",
                     "n": "Budokan PvP"
                 },
@@ -980,8 +966,7 @@ var jsonData = {
                 "e": [{
                     "i": "https://i.imgur.com/5HTFviS.png",
                     "t": "All Day",
-                    "n": "Mystery Box",
-                    "u": "https://i.imgur.com/kB9HwLy.png"
+                    "n": "Mystery Box"
                 },
                 {
                     "i": "./images/logo.png",
@@ -996,7 +981,6 @@ var jsonData = {
                 "i": "https://i.imgur.com/dAm7jFf.png",
                 "t": "16:00",
                 "n": "Vein Spawn",
-                "u": "https://i.imgur.com/JOiieaI.jpg",
                 "f": 0
             },
             {
@@ -1004,7 +988,6 @@ var jsonData = {
                 "i": "https://i.imgur.com/IllUyVq.png",
                 "t": "16:00",
                 "n": "OX Event",
-                "u": "https://i.imgur.com/Kc7IsVi.jpg",
                 "f": 0
             },
             {
@@ -1012,14 +995,11 @@ var jsonData = {
                 "e": [{
                     "i": "https://i.imgur.com/CQMpPqr.png",
                     "t": "16:00",
-                    "u": "https://i.imgur.com/UzL4RIf.jpg",
-                    "n": "Boss Spawn",
-                    "g": "https://www.metin2sg.com/forum/thread/7167-event-boss-spawn/"
+                    "n": "Boss Spawn"
                 },
                 {
 
                     "i": "https://i.imgur.com/zGm6lA5.png",
-                    "u": "https://i.imgur.com/9BgHnmP.jpg",
                     "t": "All Day",
                     "n": "Moonlight Box"
                 }
@@ -1030,7 +1010,6 @@ var jsonData = {
                 "i": "https://i.imgur.com/IllUyVq.png",
                 "t": "20:00",
                 "n": "OX Event",
-                "u": "https://i.imgur.com/Kc7IsVi.jpg",
                 "f": 0
             },
             {
@@ -1044,8 +1023,7 @@ var jsonData = {
                 "e": [{
                     "i": "https://i.imgur.com/nnJgE4E.png",
                     "t": "All Day",
-                    "n": "Hexagonal Box",
-                    "u": "https://i.imgur.com/kgPPMkZ.jpg"
+                    "n": "Hexagonal Box"
                 },
                 {
                     "i": "https://i.imgur.com/LmwH11a.png",
@@ -1066,8 +1044,7 @@ var jsonData = {
                 "e": [{
                     "i": "https://i.imgur.com/nnJgE4E.png",
                     "t": "All Day",
-                    "n": "Hexagonal Box",
-                    "u": "https://i.imgur.com/kgPPMkZ.jpg"
+                    "n": "Hexagonal Box"
                 },
                 {
                     "i": "./images/logo.png",
@@ -1088,13 +1065,11 @@ var jsonData = {
                 "i": "https://i.imgur.com/IllUyVq.png",
                 "t": "16:00",
                 "n": "OX Event",
-                "u": "https://i.imgur.com/Kc7IsVi.jpg",
                 "f": 0
             },
             {
                 "d": 22,
                 "i": "https://i.imgur.com/O6Irvei.png",
-                "u": "https://i.imgur.com/nFRv4gz.png",
                 "t": "16:00",
                 "n": "Metin Spawn"
             },
@@ -1104,12 +1079,10 @@ var jsonData = {
                     "i": "https://i.imgur.com/IllUyVq.png",
                     "t": "20:00",
                     "n": "OX Event",
-                    "u": "https://i.imgur.com/Kc7IsVi.jpg",
                     "f": 0
                 },
                 {
                     "i": "https://i.imgur.com/zGm6lA5.png",
-                    "u": "https://i.imgur.com/9BgHnmP.jpg",
                     "t": "All Day",
                     "n": "Moonlight Box"
                 }
@@ -1119,20 +1092,17 @@ var jsonData = {
                 "d": 24,
                 "i": "https://i.imgur.com/M015dld.png",
                 "t": "16:00",
-                "n": "DT Run",
-                "u": "https://i.imgur.com/l9rRJLi.jpg"
+                "n": "DT Run"
             },
             {
                 "d": 25,
                 "e": [{
                     "i": "https://i.imgur.com/5HTFviS.png",
                     "t": "All Day",
-                    "n": "Mystery Box",
-                    "u": "https://i.imgur.com/kB9HwLy.png"
+                    "n": "Mystery Box"
                 },
                 {
                     "i": "https://i.imgur.com/LmwH11a.png",
-
                     "t": "17:00",
                     "n": "Budokan PvP"
                 },
@@ -1149,8 +1119,7 @@ var jsonData = {
                 "e": [{
                     "i": "https://i.imgur.com/5HTFviS.png",
                     "t": "All Day",
-                    "n": "Mystery Box",
-                    "u": "https://i.imgur.com/kB9HwLy.png"
+                    "n": "Mystery Box"
                 },
                 {
                     "i": "./images/logo.png",
@@ -1172,12 +1141,10 @@ var jsonData = {
                     "i": "https://i.imgur.com/dAm7jFf.png",
                     "t": "16:00",
                     "n": "Vein Spawn",
-                    "u": "https://i.imgur.com/JOiieaI.jpg",
                     "f": 0
                 },
                 {
                     "i": "https://i.imgur.com/zGm6lA5.png",
-                    "u": "https://i.imgur.com/9BgHnmP.jpg",
                     "t": "All Day",
                     "n": "Moonlight Box"
                 }
@@ -1188,23 +1155,19 @@ var jsonData = {
                 "i": "https://i.imgur.com/IllUyVq.png",
                 "t": "16:00",
                 "n": "OX Event",
-                "u": "https://i.imgur.com/Kc7IsVi.jpg",
                 "f": 0
             },
             {
                 "d": 29,
                 "i": "https://i.imgur.com/CQMpPqr.png",
                 "t": "16:00",
-                "u": "https://i.imgur.com/UzL4RIf.jpg",
-                "n": "Boss Spawn",
-                "g": "https://www.metin2sg.com/forum/thread/7167-event-boss-spawn/"
+                "n": "Boss Spawn"
             },
             {
                 "d": 30,
                 "i": "https://i.imgur.com/IllUyVq.png",
                 "t": "20:00",
                 "n": "OX Event",
-                "u": "https://i.imgur.com/Kc7IsVi.jpg",
                 "f": 0
             }
         ]
