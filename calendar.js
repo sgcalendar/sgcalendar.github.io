@@ -139,10 +139,10 @@ function CreateDay(day, data) {
                     title.className = "";
                 });
             }
-            div.addEventListener("click", function (obj) {
-                var dd = dynamicDays[obj.target.closest("div").dataset.index];
-                window.open(dd.e[loopInc % dd.e.length].g, '_blank');
-            });
+            // div.addEventListener("click", function (obj) {
+            //     var dd = dynamicDays[obj.target.closest("div").dataset.index];
+            //     window.open(dd.e[loopInc % dd.e.length].g, '_blank');
+            // });
 
             var sp = div.getElementsByTagName("span");
             var eventTime = sp[1];
@@ -181,10 +181,10 @@ function CreateDay(day, data) {
                     title.className = "";
                 });
             }
-            div.addEventListener("click", function () {
-                if (day.g && day.g !== "")
-                    window.open(day.g, '_blank');
-            });
+            // div.addEventListener("click", function () {
+            //     if (day.g && day.g !== "")
+            //         window.open(day.g, '_blank');
+            // });
         }
     }
 
@@ -221,10 +221,10 @@ function sidebarEntry(day, som) {
     var li = document.createElement("li");
     li.className = "box24";
     var el = document.createElement("a");
-    el.addEventListener("click", function () {
-        if (day.g && day.g !== "")
-            window.open(day.g, '_blank');
-    });
+    // el.addEventListener("click", function () {
+    //     if (day.g && day.g !== "")
+    //         window.open(day.g, '_blank');
+    // });
     li.appendChild(el);
     var el2 = document.createElement("img");
     el2.src = day.i;
@@ -236,10 +236,10 @@ function sidebarEntry(day, som) {
     el2 = document.createElement("h3");
     div.appendChild(el2);
     el = document.createElement("a");
-    el.addEventListener("click", function () {
-        if (day.g !== "")
-            window.open(day.g, '_blank');
-    });
+    // el.addEventListener("click", function () {
+    //     if (day.g !== "")
+    //         window.open(day.g, '_blank');
+    // });
     el.innerHTML = day.n;
     el2.appendChild(el);
     el2 = document.createElement("small");
