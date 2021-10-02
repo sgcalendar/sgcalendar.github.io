@@ -395,12 +395,6 @@ var jsonData = {
                     "i": "https://i.imgur.com/LmwH11a.png",
                     "t": "17:00",
                     "n": "Budokan PvP"
-                },
-                {
-                    "i": "https://i.imgur.com/SRFNp3n.png",
-                    "t": "15:00",
-                    "n": "Fishing Extravaganza",
-                    "f": 0
                 }
                 ]
             },
