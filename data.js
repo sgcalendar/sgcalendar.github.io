@@ -395,6 +395,12 @@ var jsonData = {
                     "i": "https://i.imgur.com/LmwH11a.png",
                     "t": "17:00",
                     "n": "Budokan PvP"
+                },
+                {
+                    "i": "https://i.imgur.com/SRFNp3n.png",
+                    "t": "15:00",
+                    "n": "Fishing Extravaganza",
+                    "f": 0
                 }
                 ]
             },
@@ -446,86 +452,51 @@ var jsonData = {
             },
             {
                 "d": 8,
-                "i": "https://i.imgur.com/M015dld.png",
+                "i": "https://i.imgur.com/tEDRd0U.png",
                 "t": "16:00",
-                "n": "DT Run"
+                "n": "Anniversary"
             },
             {
                 "d": 9,
-                "e": [{
-                    "i": "https://i.imgur.com/5HTFviS.png",
-                    "t": "All Day",
-                    "n": "Mystery Box"
-                },
-                {
-                    "i": "https://i.imgur.com/LmwH11a.png",
-                    "t": "17:00",
-                    "n": "Budokan PvP"
-                },
-                {
-                    "i": "https://i.imgur.com/SRFNp3n.png",
-                    "t": "15:00",
-                    "n": "Fishing Extravaganza",
-                    "f": 0
-                }
-                ]
+                "i": "https://i.imgur.com/tEDRd0U.png",
+                "t": "All Day",
+                "n": "Anniversary"
             },
             {
                 "d": 10,
-                "e": [{
-                    "i": "https://i.imgur.com/5HTFviS.png",
-                    "t": "All Day",
-                    "n": "Mystery Box"
-                },
-                {
-                    "i": "./images/logo.png",
-                    "g": "",
-                    "t": "16:00",
-                    "n": "Nation War"
-                }
-                ]
+                "i": "https://i.imgur.com/tEDRd0U.png",
+                "t": "All Day",
+                "n": "Anniversary"
             },
             {
                 "d": 11,
-                "i": "https://i.imgur.com/dAm7jFf.png",
-                "t": "16:00",
-                "n": "Vein Spawn",
-                "f": 0
+                "i": "https://i.imgur.com/tEDRd0U.png",
+                "t": "All Day",
+                "n": "Anniversary"
             },
             {
                 "d": 12,
-                "i": "https://i.imgur.com/IllUyVq.png",
-                "t": "16:00",
-                "n": "OX Event",
-                "f": 0
+                "i": "https://i.imgur.com/tEDRd0U.png",
+                "t": "All Day",
+                "n": "Anniversary"
             },
             {
                 "d": 13,
-                "e": [{
-                    "i": "https://i.imgur.com/CQMpPqr.png",
-                    "t": "16:00",
-                    "n": "Boss Spawn"
-                },
-                {
-
-                    "i": "https://i.imgur.com/zGm6lA5.png",
-                    "t": "All Day",
-                    "n": "Moonlight Box"
-                }
-                ]
+                "i": "https://i.imgur.com/tEDRd0U.png",
+                "t": "All Day",
+                "n": "Anniversary"
             },
             {
                 "d": 14,
-                "i": "https://i.imgur.com/IllUyVq.png",
-                "t": "20:00",
-                "n": "OX Event",
-                "f": 0
+                "i": "https://i.imgur.com/tEDRd0U.png",
+                "t": "All Day",
+                "n": "Anniversary"
             },
             {
                 "d": 15,
-                "i": "./images/logo.png",
-                "t": "16:00",
-                "n": "Hunter's Hour"
+                "i": "https://i.imgur.com/tEDRd0U.png",
+                "t": "Until 16",
+                "n": "Anniversary"
             },
             {
                 "d": 16,
@@ -586,7 +557,7 @@ var jsonData = {
                 "d": 21,
                 "e": [{
                     "i": "https://i.imgur.com/IllUyVq.png",
-                    "t": "20:00",
+                    "t": "16:00",
                     "n": "OX Event",
                     "f": 0
                 },
