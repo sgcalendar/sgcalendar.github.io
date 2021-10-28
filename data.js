@@ -653,13 +653,13 @@ var jsonData = {
             {
                 "d": 30,
                 "i": "https://i.imgur.com/SnmdoTk.png",
-                "t": "16:00",
+                "t": "All Day",
                 "n": "Halloween"
             },
             {
                 "d": 31,
                 "i": "https://i.imgur.com/SnmdoTk.png",
-                "t": "16:00",
+                "t": "All Day",
                 "n": "Halloween"
             }
         ]
