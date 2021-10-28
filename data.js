@@ -646,51 +646,21 @@ var jsonData = {
             },
             {
                 "d": 29,
-                "i": "./images/logo.png",
+                "i": "https://i.imgur.com/SnmdoTk.png",
                 "t": "16:00",
-                "n": "Find The GM"
+                "n": "Halloween"
             },
             {
                 "d": 30,
-                "e": [{
-                    "i": "https://i.imgur.com/nnJgE4E.png",
-                    "t": "All Day",
-                    "n": "Hexagonal Box"
-                },
-                {
-                    "i": "https://i.imgur.com/LmwH11a.png",
-
-                    "t": "17:00",
-                    "n": "Budokan PvP"
-                },
-                {
-                    "i": "https://i.imgur.com/SRFNp3n.png",
-                    "t": "15:00",
-                    "n": "Fishing Extravaganza",
-                    "f": 0
-                }
-                ]
+                "i": "https://i.imgur.com/SnmdoTk.png",
+                "t": "16:00",
+                "n": "Halloween"
             },
             {
                 "d": 31,
-                "e": [{
-                    "i": "https://i.imgur.com/nnJgE4E.png",
-                    "t": "All Day",
-                    "n": "Hexagonal Box"
-                },
-                {
-                    "i": "./images/logo.png",
-                    "g": "",
-                    "t": "16:00",
-                    "n": "Nation War"
-                },
-                {
-                    "i": "./images/logo.png",
-                    "g": "",
-                    "t": "10:00",
-                    "n": "Dungeon Master"
-                }
-                ]
+                "i": "https://i.imgur.com/SnmdoTk.png",
+                "t": "16:00",
+                "n": "Halloween"
             }
         ]
     }
