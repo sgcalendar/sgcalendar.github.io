@@ -168,32 +168,16 @@ var seasonData = {
             },
             {
                 "d": 18,
-                "e": [{
-                    "i": "https://i.imgur.com/nnJgE4E.png",
-                    "t": "All Day",
-                    "n": "Hexagonal Box"
-                },
-                {
-                    "i": "https://i.imgur.com/SRFNp3n.png",
-                    "t": "15:30",
-                    "n": "Fishing Extravaganza",
-                    "f": 0
-                }
-                ]
+                "i": "https://i.imgur.com/SRFNp3n.png",
+                "t": "15:30",
+                "n": "Fishing Extravaganza",
+                "f": 0
             },
             {
                 "d": 19,
-                "e": [{
-                    "i": "https://i.imgur.com/nnJgE4E.png",
-                    "t": "All Day",
-                    "n": "Hexagonal Box"
-                },
-                {
                     "i": "https://i.imgur.com/0G9HBw4.jpg",
                     "t": "16:00",
                     "n": "Nation War"
-                }
-                ]
             },
             {
                 "d": 20,
