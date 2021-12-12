@@ -242,7 +242,7 @@ body::-webkit-scrollbar-thumb {
     }
 
     #calendar #calendar-panel .day .calendar-event-name {
-        font-size: 18px
+        font-size: 15px
     }
 
         #calendar #calendar-panel .day .calendar-event-name.longText {
