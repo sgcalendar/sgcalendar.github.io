@@ -10,7 +10,10 @@ function CalendarInit() {
     var url = (window.location != window.parent.location)
             ? document.referrer
             : document.location.href;
-    console.log(url);
+    if (url == "https://season.metin2sg.com/"){
+        console.log("I'm on seasonal!");
+        console.log(url);
+    }
     var data = jsonData[calendarDate.getMonth() + "" + calendarDate.getFullYear()];
     //console.log(calendarDate.getMonth());
     if (data === undefined) {
