@@ -176,7 +176,7 @@ var seasonData = {
             {
                 "d": 19,
                     "i": "https://i.imgur.com/0G9HBw4.jpg",
-                    "t": "16:00",
+                    "t": "15:00",
                     "n": "Global 20% Monster"
             },
             {
@@ -243,7 +243,7 @@ var seasonData = {
                 },
                 {
                     "i": "https://i.imgur.com/0G9HBw4.jpg",
-                    "t": "17:00",
+                    "t": "15:00",
                     "n": "Global 20% Monster"
                     }]
             },
