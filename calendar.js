@@ -10,11 +10,12 @@ function CalendarInit() {
     var url = (window.location != window.parent.location)
             ? document.referrer
             : document.location.href;
+    var data={};
     if (url == "https://season.metin2sg.com/"){
-        console.log("I'm on seasonal!");
-        console.log(url);
+        console.log("Seasonal updating...");
+    } else {
+        data = jsonData[calendarDate.getMonth() + "" + calendarDate.getFullYear()];
     }
-    var data = jsonData[calendarDate.getMonth() + "" + calendarDate.getFullYear()];
     //console.log(calendarDate.getMonth());
     if (data === undefined) {
         nextMonth();
