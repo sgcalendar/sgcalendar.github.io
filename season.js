@@ -114,23 +114,21 @@ var seasonData = {
             },
             {
                 "d": 12,
-                "e": [{
+                "e": [                {
+                    "i": "./images/logo.png",
+                    "t": "17:00",
+                    "n": "2x Dungeon Loot"
+                },{
                     "i": "./images/logo.png",
                     "t": "15:00",
                     "n": "Nation War"
-                },
-                {
-                    "i": "./images/logo.png",
-                    "t": "17:00",
-                    "n": "2x Dungeon Boss Loot"
-                }
-                ]
+                }                ]
             },
             {
                 "d": 13,
                 "i": "https://i.imgur.com/dAm7jFf.png",
                 "t": "16:00",
-                "n": "Vein Spawn",
+                "n": "Mining Party",
                 "f": 0
             },
             {
@@ -185,9 +183,17 @@ var seasonData = {
             },
             {
                 "d": 19,
-                "i": "https://i.imgur.com/nnJgE4E.png",
-                "t": "All Day",
-                "n": "Hexagonal Box"
+                "e": [{
+                    "i": "https://i.imgur.com/nnJgE4E.png",
+                    "t": "All Day",
+                    "n": "Hexagonal Box"
+                },
+                {
+                    "i": "./images/logo.png",
+                    "t": "16:00",
+                    "n": "Nation War"
+                }
+                ]
             },
             {
                 "d": 20,
@@ -227,7 +233,7 @@ var seasonData = {
                 "d": 24,
                 "i": "https://i.imgur.com/O6Irvei.png",
                 "t": "16:00",
-                "n": "Metin Spawn"
+                "n": "Metin Rain"
             },
             {
                 "d": 25,
@@ -246,16 +252,23 @@ var seasonData = {
             },
             {
                 "d": 26,
+                "e": [{
                 "i": "https://i.imgur.com/5HTFviS.png",
                 "t": "All Day",
                 "n": "Mystery Box"
+                },
+                {
+                    "i": "./images/logo.png",
+                    "t": "17:00",
+                    "n": "Nation War"
+                    }]
             },
             {
                 "d": 27,
                 "e": [{
                     "i": "https://i.imgur.com/dAm7jFf.png",
                     "t": "16:00",
-                    "n": "Vein Spawn",
+                    "n": "Mining Party",
                     "f": 0
                 },
                 {
