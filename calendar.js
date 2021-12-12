@@ -12,10 +12,11 @@ function CalendarInit() {
             : document.location.href;
     var data={};
     if (url == "https://season.metin2sg.com/"){
-        console.log("Seasonal updating...");
+        data = seasonData[calendarDate.getMonth() + "" + calendarDate.getFullYear()];
     } else {
         data = jsonData[calendarDate.getMonth() + "" + calendarDate.getFullYear()];
     }
+    
     //console.log(calendarDate.getMonth());
     if (data === undefined) {
         nextMonth();
@@ -24,9 +25,7 @@ function CalendarInit() {
 
     title = document.getElementById("calendar-monthTitle");
     title.innerHTML = monthNames[calendarDate.getMonth()] + " Calendar";
-    if (url == "https://season.metin2sg.com/"){
-        title.innerHTML = "Under construction";
-    }
+    title.innerHTML = "Under construction";
     title.style.color = "#" + data.tc;
     var textShadow = "0 0 5px #FFF, 0 0 10px #FFF, 0 0 15px #FFF, 0 0 20px aqua, 0 0 30px aqua, 0 0 40px aqua, 0 0 55px aqua, 0 0 75px aqua";
     textShadow = textShadow.replace(/aqua/g, "#" + data.ec);
