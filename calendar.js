@@ -24,6 +24,7 @@ function CalendarInit() {
 
     title = document.getElementById("calendar-monthTitle");
     title.innerHTML = monthNames[calendarDate.getMonth()] + " Calendar";
+    title.innerHTML = "Under construction";
     title.style.color = "#" + data.tc;
     var textShadow = "0 0 5px #FFF, 0 0 10px #FFF, 0 0 15px #FFF, 0 0 20px aqua, 0 0 30px aqua, 0 0 40px aqua, 0 0 55px aqua, 0 0 75px aqua";
     textShadow = textShadow.replace(/aqua/g, "#" + data.ec);
