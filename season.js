@@ -121,7 +121,7 @@ var seasonData = {
                 },{
                     "i": "https://i.imgur.com/0G9HBw4.jpg",
                     "t": "15:00",
-                    "n": "Nation War"
+                    "n": "Global 20% Monster"
                 }                ]
             },
             {
@@ -177,7 +177,7 @@ var seasonData = {
                 "d": 19,
                     "i": "https://i.imgur.com/0G9HBw4.jpg",
                     "t": "16:00",
-                    "n": "Nation War"
+                    "n": "Global 20% Monster"
             },
             {
                 "d": 20,
@@ -244,7 +244,7 @@ var seasonData = {
                 {
                     "i": "https://i.imgur.com/0G9HBw4.jpg",
                     "t": "17:00",
-                    "n": "Nation War"
+                    "n": "Global 20% Monster"
                     }]
             },
             {
