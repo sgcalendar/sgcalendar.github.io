@@ -5,16 +5,20 @@ var dayImageErrorUrl = "./images/error.png";
 var hovering = false;
 var loopInc = 0;
 var loaded = false;
+var myData = {};
 
 function CalendarInit() {
     var url = (window.location != window.parent.location)
-            ? document.referrer
-            : document.location.href;
+    ? document.referrer
+    : document.location.href;
     var data={};
     if (url == "https://season.metin2sg.com/"){
+        console.log("Seasonal updating...");
         data = seasonData[calendarDate.getMonth() + "" + calendarDate.getFullYear()];
+        myData = seasonData;
     } else {
         data = jsonData[calendarDate.getMonth() + "" + calendarDate.getFullYear()];
+        myData = jsonData;
     }
     
     //console.log(calendarDate.getMonth());
@@ -60,7 +64,8 @@ function CalendarInit() {
             CreateSidebarDay(day, data.som, sidebar);
         }
         if (exceeds) {
-            var nextData = jsonData[calendarDate.getMonth() + 1 + "" + calendarDate.getFullYear()];
+            var nextData = {};
+            nextData = myData[calendarDate.getMonth() + 1 + "" + calendarDate.getFullYear()];
             if (nextData !== undefined) {
                 var excess = today + 10 - daysInMonth;
                 day0Count = 0;
@@ -339,7 +344,7 @@ function nextPrevMonthExists() {
     } else {
         newDate = new Date(calendarDate.getFullYear(), m);
     }
-    if (jsonData[newDate.getMonth() + "" + newDate.getFullYear()] !== undefined) {
+    if (myData[newDate.getMonth() + "" + newDate.getFullYear()] !== undefined) {
         document.getElementById("calendar-next").style.width = "50%";
     } else {
         document.getElementById("calendar-next").style.width = "0px";
@@ -352,7 +357,7 @@ function nextPrevMonthExists() {
         newDate = new Date(calendarDate.getFullYear(), m);
     }
 
-    if (jsonData[newDate.getMonth() + "" + newDate.getFullYear()] !== undefined) {
+    if (myData[newDate.getMonth() + "" + newDate.getFullYear()] !== undefined) {
         document.getElementById("calendar-prev").style.width = "50%";
     } else {
         document.getElementById("calendar-prev").style.width = "0px";
@@ -376,7 +381,7 @@ function NextMajorEvent(today, data) {
     var nextMonth = false;
     var tomorrow = today + 1;
     if (tomorrow > daysInMonth(calendarDate.getMonth() + 1, calendarDate.getFullYear())) {
-        data = jsonData[calendarDate.getMonth() + 1 + "" + calendarDate.getFullYear()];
+        data = myData[calendarDate.getMonth() + 1 + "" + calendarDate.getFullYear()];
         tomorrow = 1;
         nextMonth = true;
     }
@@ -394,7 +399,7 @@ function NextMajorEvent(today, data) {
         sidebar.appendChild(sidebarEntry(day, data.som));
     }
     if (nextMonth)
-        data = jsonData[calendarDate.getMonth() + "" + calendarDate.getFullYear()];
+        data = myData[calendarDate.getMonth() + "" + calendarDate.getFullYear()];
 
     day = null;
     sidebar = document.getElementById("major-sidebar");
