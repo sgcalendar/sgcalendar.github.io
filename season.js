@@ -2,9 +2,9 @@ var seasonData = {
     "112021": {
         "y": 2021,
         "m": 10,
-        "som": "https://i.imgur.com/kyBeVjJ.jpg",
+        "som": "https://i.imgur.com/rBg7za8.jpg",
         "tc": "184d47",
-        "ec": "96bb7c",
+        "ec": "dc143c",
         "days": [
             {
                 "d": 0,
@@ -92,7 +92,7 @@ var seasonData = {
             },
             {
                 "d": 10,
-                "i": "./images/logo.png",
+                "i": "https://i.imgur.com/tEDRd0U.png",
                 "g": null,
                 "t": null,
                 "n": "Opening"
@@ -100,7 +100,7 @@ var seasonData = {
             {
                 "d": 11,
                 "e": [{
-                    "i": "./images/logo.png",
+                    "i": "https://i.imgur.com/vOps4LD.jpg",
                     "t": "16:30",
                     "n": "2x Metin Loot"
                 },
@@ -115,11 +115,11 @@ var seasonData = {
             {
                 "d": 12,
                 "e": [                {
-                    "i": "./images/logo.png",
+                    "i": "https://i.imgur.com/FqGcWOC.jpg",
                     "t": "17:00",
                     "n": "2x Dungeon Loot"
                 },{
-                    "i": "./images/logo.png",
+                    "i": "https://i.imgur.com/0G9HBw4.jpg",
                     "t": "15:00",
                     "n": "Nation War"
                 }                ]
@@ -189,7 +189,7 @@ var seasonData = {
                     "n": "Hexagonal Box"
                 },
                 {
-                    "i": "./images/logo.png",
+                    "i": "https://i.imgur.com/0G9HBw4.jpg",
                     "t": "16:00",
                     "n": "Nation War"
                 }
@@ -197,7 +197,7 @@ var seasonData = {
             },
             {
                 "d": 20,
-                "i": "./images/logo.png",
+                "i": "https://i.imgur.com/L2ey8n1.jpg",
                 "t": "16:00",
                 "n": "Tanaka Hunt"
             },
@@ -210,9 +210,9 @@ var seasonData = {
             },
             {
                 "d": 22,
-                "i": "./images/logo.png",
-                "t": "16:00",
-                "n": "Hunter's Hour"
+                "i": "https://i.imgur.com/FqGcWOC.jpg",
+                    "t": "16:00",
+                    "n": "2x Dungeon Loot"
             },
             {
                 "d": 23,
@@ -258,7 +258,7 @@ var seasonData = {
                 "n": "Mystery Box"
                 },
                 {
-                    "i": "./images/logo.png",
+                    "i": "https://i.imgur.com/0G9HBw4.jpg",
                     "t": "17:00",
                     "n": "Nation War"
                     }]
@@ -287,7 +287,7 @@ var seasonData = {
             },
             {
                 "d": 29,
-                "i": "./images/logo.png",
+                "i": "https://i.imgur.com/vOps4LD.jpg",
                 "t": "16:00",
                 "n": "2x Metin Loot"
             },
