@@ -32,63 +32,63 @@ var seasonData = {
                 "i": "./images/logo.png",
                 "g": null,
                 "t": null,
-                "n": null
+                "n": ""
             },
             {
                 "d": 2,
                 "i": "./images/logo.png",
                 "g": null,
                 "t": null,
-                "n": null
+                "n": ""
             }, 
             {
                 "d": 3,
                 "i": "./images/logo.png",
                 "g": null,
                 "t": null,
-                "n": null
+                "n": ""
             },
             {
                 "d": 4,
                 "i": "./images/logo.png",
                 "g": null,
                 "t": null,
-                "n": null
+                "n": ""
             },
             {
                 "d": 5,
                 "i": "./images/logo.png",
                 "g": null,
                 "t": null,
-                "n": null
+                "n": ""
             },
             {
                 "d": 6,
                 "i": "./images/logo.png",
                 "g": null,
                 "t": null,
-                "n": null
+                "n": ""
             },
             {
                 "d": 7,
                 "i": "./images/logo.png",
                 "g": null,
                 "t": null,
-                "n": null
+                "n": ""
             },
             {
                 "d": 8,
                 "i": "./images/logo.png",
                 "g": null,
                 "t": null,
-                "n": null
+                "n": ""
             },
             {
                 "d": 9,
                 "i": "./images/logo.png",
                 "g": null,
                 "t": null,
-                "n": null
+                "n": ""
             },
             {
                 "d": 10,
@@ -100,14 +100,9 @@ var seasonData = {
             {
                 "d": 11,
                 "e": [{
-                    "i": "https://i.imgur.com/5HTFviS.png",
-                    "t": "All Day",
-                    "n": "Mystery Box"
-                },
-                {
-                    "i": "https://i.imgur.com/LmwH11a.png",
-                    "t": "17:00",
-                    "n": "Budokan PvP"
+                    "i": "./images/logo.png",
+                    "t": "16:30",
+                    "n": "2x Metin Loot"
                 },
                 {
                     "i": "https://i.imgur.com/SRFNp3n.png",
@@ -120,15 +115,14 @@ var seasonData = {
             {
                 "d": 12,
                 "e": [{
-                    "i": "https://i.imgur.com/5HTFviS.png",
-                    "t": "All Day",
-                    "n": "Mystery Box"
+                    "i": "./images/logo.png",
+                    "t": "15:00",
+                    "n": "Nation War"
                 },
                 {
                     "i": "./images/logo.png",
-                    "g": "",
-                    "t": "15:00",
-                    "n": "Nation War"
+                    "t": "17:00",
+                    "n": "2x Dungeon Boss Loot"
                 }
                 ]
             },
@@ -149,9 +143,9 @@ var seasonData = {
             {
                 "d": 15,
                 "e": [{
-                    "i": "https://i.imgur.com/CQMpPqr.png",
+                    "i": "https://i.imgur.com/fihlJd5.png",
                     "t": "16:00",
-                    "n": "Boss Spawn"
+                    "n": "Gold Fever"
                 },
                 {
 
@@ -170,9 +164,9 @@ var seasonData = {
             },
             {
                 "d": 17,
-                "i": "./images/logo.png",
-                "t": "16:00",
-                "n": "Hunter's Hour"
+                "i": "https://i.imgur.com/CQMpPqr.png",
+                    "t": "16:00",
+                    "n": "Boss Spawn"
             },
             {
                 "d": 18,
@@ -180,12 +174,6 @@ var seasonData = {
                     "i": "https://i.imgur.com/nnJgE4E.png",
                     "t": "All Day",
                     "n": "Hexagonal Box"
-                },
-                {
-                    "i": "https://i.imgur.com/LmwH11a.png",
-
-                    "t": "17:00",
-                    "n": "Budokan PvP"
                 },
                 {
                     "i": "https://i.imgur.com/SRFNp3n.png",
@@ -197,18 +185,9 @@ var seasonData = {
             },
             {
                 "d": 19,
-                "e": [{
-                    "i": "https://i.imgur.com/nnJgE4E.png",
-                    "t": "All Day",
-                    "n": "Hexagonal Box"
-                },
-                {
-                    "i": "./images/logo.png",
-                    "g": "",
-                    "t": "16:00",
-                    "n": "Nation War"
-                }
-                ]
+                "i": "https://i.imgur.com/nnJgE4E.png",
+                "t": "All Day",
+                "n": "Hexagonal Box"
             },
             {
                 "d": 20,
@@ -225,9 +204,9 @@ var seasonData = {
             },
             {
                 "d": 22,
-                "i": "https://i.imgur.com/O6Irvei.png",
+                "i": "./images/logo.png",
                 "t": "16:00",
-                "n": "Metin Spawn"
+                "n": "Hunter's Hour"
             },
             {
                 "d": 23,
@@ -246,9 +225,9 @@ var seasonData = {
             },
             {
                 "d": 24,
-                "i": "https://i.imgur.com/M015dld.png",
+                "i": "https://i.imgur.com/O6Irvei.png",
                 "t": "16:00",
-                "n": "DT Run"
+                "n": "Metin Spawn"
             },
             {
                 "d": 25,
@@ -256,11 +235,6 @@ var seasonData = {
                     "i": "https://i.imgur.com/5HTFviS.png",
                     "t": "All Day",
                     "n": "Mystery Box"
-                },
-                {
-                    "i": "https://i.imgur.com/LmwH11a.png",
-                    "t": "17:00",
-                    "n": "Budokan PvP"
                 },
                 {
                     "i": "https://i.imgur.com/SRFNp3n.png",
@@ -272,24 +246,9 @@ var seasonData = {
             },
             {
                 "d": 26,
-                "e": [{
-                    "i": "https://i.imgur.com/5HTFviS.png",
-                    "t": "All Day",
-                    "n": "Mystery Box"
-                },
-                {
-                    "i": "./images/logo.png",
-                    "g": "",
-                    "t": "17:00",
-                    "n": "Nation War"
-                },
-                {
-                    "i": "./images/logo.png",
-                    "g": "",
-                    "t": "14:00",
-                    "n": "Dungeon Master"
-                }
-                ]
+                "i": "https://i.imgur.com/5HTFviS.png",
+                "t": "All Day",
+                "n": "Mystery Box"
             },
             {
                 "d": 27,
@@ -315,9 +274,9 @@ var seasonData = {
             },
             {
                 "d": 29,
-                "i": "https://i.imgur.com/CQMpPqr.png",
+                "i": "./images/logo.png",
                 "t": "16:00",
-                "n": "Boss Spawn"
+                "n": "2x Metin Loot"
             },
             {
                 "d": 30,
@@ -328,9 +287,9 @@ var seasonData = {
             }, 
             {
                 "d": 31,
-                "i": "https://i.imgur.com/fihlJd5.png",
+                "i": "https://i.imgur.com/CQMpPqr.png",
                 "t": "16:00",
-                "n": "Gold Fever"
+                "n": "Boss Spawn"
             }
         ]
     }
