@@ -173,7 +173,7 @@ var seasonData = {
                 "d": 18,
                 "e": [{
                     "i": "https://i.imgur.com/vOps4LD.jpg",
-                    "t": "15:00",
+                    "t": "16:00",
                     "n": "20% vs Metin"
                 },{
                     "i": "https://i.imgur.com/SRFNp3n.png",
