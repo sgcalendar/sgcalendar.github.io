@@ -146,10 +146,16 @@ var seasonData = {
             },
             {
                 "d": 15,
+                "e": [{
+                "i": "https://i.imgur.com/zGm6lA5.png",
+                    "t": "All Day",
+                    "n": "Moonlight Box"
+            },{
                     "i": "https://i.imgur.com/fihlJd5.png",
                     "t": "16:00",
                     "n": "Gold Fever"
-            },
+            }]
+                },
             {
                 "d": 16,
                 "i": "https://i.imgur.com/IllUyVq.png",
@@ -184,17 +190,10 @@ var seasonData = {
             },
             {
                 "d": 21,
-                "e": [{
-                    "i": "https://i.imgur.com/zGm6lA5.png",
-                    "t": "16:00",
-                    "n": "Moonlight Box"
-                },{
                 "i": "https://i.imgur.com/IllUyVq.png",
                 "t": "16:00",
                 "n": "OX Event",
                 "f": 0
-            }
-            ]
             },
             {
                 "d": 22,
@@ -204,11 +203,16 @@ var seasonData = {
             },
             {
                 "d": 23,
+                "e": [{
+                "i": "https://i.imgur.com/zGm6lA5.png",
+                    "t": "All Day",
+                    "n": "Moonlight Box"
+            },{
                     "i": "https://i.imgur.com/IllUyVq.png",
                     "t": "20:00",
                     "n": "OX Event",
                     "f": 0
-                
+            }]
             },
             {
                 "d": 24,
@@ -246,10 +250,16 @@ var seasonData = {
             },
             {
                 "d": 27,
+                "e": [{
+                "i": "https://i.imgur.com/zGm6lA5.png",
+                    "t": "All Day",
+                    "n": "Moonlight Box"
+            },{
                     "i": "https://i.imgur.com/dAm7jFf.png",
                     "t": "16:00",
                     "n": "Mining Party",
                     "f": 0
+            }]
             },
             {
                 "d": 28,
@@ -260,15 +270,9 @@ var seasonData = {
             },
             {
                 "d": 29,
-                "e": [{
-                    "i": "https://i.imgur.com/zGm6lA5.png",
-                    "t": "16:00",
-                    "n": "Moonlight Box"
-                },{
                 "i": "https://i.imgur.com/vOps4LD.jpg",
                 "t": "16:00",
                 "n": "2x Metin Loot"
-                }]
             },
             {
                 "d": 30,
