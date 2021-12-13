@@ -186,7 +186,7 @@ var seasonData = {
                 "d": 21,
                 "e": [{
                     "i": "https://i.imgur.com/zGm6lA5.png",
-                    "t": "All Day",
+                    "t": "16:00",
                     "n": "Moonlight Box"
                 },{
                 "i": "https://i.imgur.com/IllUyVq.png",
@@ -262,7 +262,7 @@ var seasonData = {
                 "d": 29,
                 "e": [{
                     "i": "https://i.imgur.com/zGm6lA5.png",
-                    "t": "All Day",
+                    "t": "16:00",
                     "n": "Moonlight Box"
                 },{
                 "i": "https://i.imgur.com/vOps4LD.jpg",
