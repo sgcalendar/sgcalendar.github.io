@@ -133,7 +133,7 @@ var seasonData = {
                     "n": "Moonlight Box"
                 },{
                     "i": "https://i.imgur.com/0G9HBw4.jpg",
-                    "t": "15:00",
+                    "t": "16:00",
                     "n": "Global 20% Monster"
                 }]
             },
