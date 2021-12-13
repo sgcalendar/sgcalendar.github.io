@@ -171,10 +171,16 @@ var seasonData = {
             },
             {
                 "d": 18,
-                "i": "https://i.imgur.com/SRFNp3n.png",
+                "e": [{
+                    "i": "https://i.imgur.com/vOps4LD.jpg",
+                    "t": "15:00",
+                    "n": "Global 20% Monster"
+                },{
+                    "i": "https://i.imgur.com/SRFNp3n.png",
                 "t": "15:30",
                 "n": "Fishing Extravaganza",
                 "f": 0
+                }]
             },
             {
                 "d": 19,
