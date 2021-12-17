@@ -166,7 +166,7 @@ var seasonData = {
             {
                 "d": 17,
                 "i": "https://i.imgur.com/CQMpPqr.png",
-                    "t": "16:00",
+                    "t": "20:00",
                     "n": "Boss Spawn"
             },
             {
