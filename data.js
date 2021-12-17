@@ -526,7 +526,7 @@ var jsonData = {
             {
                 "d": 17,
                 "i": "./images/logo.png",
-                "t": "16:00",
+                "t": "20:00",
                 "n": "Hunter's Hour"
             },
             {
