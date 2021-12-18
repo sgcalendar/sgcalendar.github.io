@@ -190,108 +190,75 @@ var seasonData = {
             },
             {
                 "d": 20,
-                "i": "https://i.imgur.com/L2ey8n1.jpg",
-                "t": "16:00",
-                "n": "Tanaka Hunt"
+                "i": "https://i.imgur.com/mTCKvhx.png",
+                "t": "All Day",
+                "n": "Christmas"
             },
             {
                 "d": 21,
-                "i": "https://i.imgur.com/IllUyVq.png",
-                "t": "16:00",
-                "n": "OX Event",
-                "f": 0
+                "i": "https://i.imgur.com/mTCKvhx.png",
+                "t": "All Day",
+                "n": "Christmas"
             },
             {
                 "d": 22,
-                "i": "https://i.imgur.com/FqGcWOC.jpg",
-                    "t": "16:00",
-                    "n": "2x Dungeon Loot"
+                "i": "https://i.imgur.com/mTCKvhx.png",
+                "t": "All Day",
+                "n": "Christmas"
             },
             {
                 "d": 23,
-                "e": [{
-                "i": "https://i.imgur.com/zGm6lA5.png",
-                    "t": "All Day",
-                    "n": "Moonlight Box"
-            },{
-                    "i": "https://i.imgur.com/IllUyVq.png",
-                    "t": "20:00",
-                    "n": "OX Event",
-                    "f": 0
-            }]
+                "i": "https://i.imgur.com/mTCKvhx.png",
+                "t": "All Day",
+                "n": "Christmas"
             },
             {
                 "d": 24,
-                "i": "https://i.imgur.com/O6Irvei.png",
-                "t": "16:00",
-                "n": "Metin Rain"
+                "i": "https://i.imgur.com/mTCKvhx.png",
+                "t": "All Day",
+                "n": "Christmas"
             },
             {
                 "d": 25,
-                "e": [{
-                    "i": "https://i.imgur.com/5HTFviS.png",
-                    "t": "All Day",
-                    "n": "Mystery Box"
-                },
-                {
-                    "i": "https://i.imgur.com/SRFNp3n.png",
-                    "t": "15:30",
-                    "n": "Fishing Extravaganza",
-                    "f": 0
-                }
-                ]
+                "i": "https://i.imgur.com/mTCKvhx.png",
+                "t": "All Day",
+                "n": "Christmas"
             },
             {
                 "d": 26,
-                "e": [{
-                "i": "https://i.imgur.com/5HTFviS.png",
+                "i": "https://i.imgur.com/mTCKvhx.png",
                 "t": "All Day",
-                "n": "Mystery Box"
-                },
-                {
-                    "i": "https://i.imgur.com/0G9HBw4.jpg",
-                    "t": "15:00",
-                    "n": "Global 20% Monster"
-                    }]
+                "n": "Christmas"
             },
             {
                 "d": 27,
-                "e": [{
-                "i": "https://i.imgur.com/zGm6lA5.png",
-                    "t": "All Day",
-                    "n": "Moonlight Box"
-            },{
-                    "i": "https://i.imgur.com/dAm7jFf.png",
-                    "t": "16:00",
-                    "n": "Mining Party",
-                    "f": 0
-            }]
+                "i": "https://i.imgur.com/mTCKvhx.png",
+                "t": "All Day",
+                "n": "Christmas"
             },
             {
                 "d": 28,
-                "i": "https://i.imgur.com/IllUyVq.png",
-                "t": "16:00",
-                "n": "OX Event",
-                "f": 0
+                "i": "https://i.imgur.com/mTCKvhx.png",
+                "t": "All Day",
+                "n": "Christmas"
             },
             {
                 "d": 29,
-                "i": "https://i.imgur.com/vOps4LD.jpg",
-                "t": "16:00",
-                "n": "2x Metin Loot"
+                "i": "https://i.imgur.com/mTCKvhx.png",
+                "t": "All Day",
+                "n": "Christmas"
             },
             {
                 "d": 30,
-                "i": "https://i.imgur.com/IllUyVq.png",
-                "t": "20:00",
-                "n": "OX Event",
-                "f": 0
+                "i": "https://i.imgur.com/mTCKvhx.png",
+                "t": "All Day",
+                "n": "Christmas"
             }, 
             {
                 "d": 31,
-                "i": "https://i.imgur.com/CQMpPqr.png",
-                "t": "16:00",
-                "n": "Boss Spawn"
+                "i": "https://i.imgur.com/mTCKvhx.png",
+                "t": "All Day",
+                "n": "Christmas"
             }
         ]
     }
