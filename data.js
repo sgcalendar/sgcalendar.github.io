@@ -644,9 +644,9 @@ var jsonData = {
             }, 
             {
                 "d": 31,
-                "i": "https://i.imgur.com/M015dld.png",
+                "i": "./images/logo.png",
                 "t": "16:00",
-                "n": "DT Run"
+                "n": "Hunter's hour"
             }
         ]
     }
