@@ -338,16 +338,9 @@ var seasonData = {
             },
             {
                 "d": 5,
-                "e":[{
-                    "i": "https://i.imgur.com/vOps4LD.jpg",
-                    "t": "16:00",
-                    "n": "2x Metin Loot"
-                },
-                {
-                    "i": "https://i.imgur.com/zGm6lA5.png",
-                    "t": "All Day",
-                    "n": "Moonlight Box"
-                }]
+                "i": "https://i.imgur.com/zGm6lA5.png",
+                "t": "All Day",
+                "n": "Moonlight Box"
             },
             {
                 "d": 6,
