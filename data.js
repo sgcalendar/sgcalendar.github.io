@@ -767,9 +767,9 @@ var jsonData = {
             },
             {
                 "d": 7,
-                "i": "https://i.imgur.com/M015dld.png",
+                "i": "./images/logo.png",
                 "t": "16:00",
-                "n": "DT Run"
+                "n": "Find The GM"
             },
             {
                 "d": 8,
@@ -915,9 +915,9 @@ var jsonData = {
             },
             {
                 "d": 21,
-                "i": "https://i.imgur.com/M015dld.png",
+                "i": "./images/logo.png",
                 "t": "16:00",
-                "n": "DT Run"
+                "n": "Find The GM"
             },
             {
                 "d": 22,
