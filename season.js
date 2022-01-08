@@ -366,6 +366,11 @@ var seasonData = {
                     "t": "15:30",
                     "n": "Fishing Extravaganza",
                     "f": 0
+                },
+                {
+                    "i": "https://i.imgur.com/vOps4LD.jpg",
+                    "t": "16:00",
+                    "n": "2x Metin Loot"
                 }]
             },
             {
@@ -424,6 +429,10 @@ var seasonData = {
                     "t": "15:30",
                     "n": "Fishing Extravaganza",
                     "f": 0
+                },{
+                    "i": "https://i.imgur.com/FqGcWOC.jpg",
+                    "t": "17:00",
+                    "n": "2x Dungeon Loot"
                 }]
             },
             {
@@ -482,6 +491,11 @@ var seasonData = {
                     "t": "15:30",
                     "n": "Fishing Extravaganza",
                     "f": 0
+                },
+                {
+                    "i": "https://i.imgur.com/vOps4LD.jpg",
+                    "t": "16:00",
+                    "n": "2x Metin Loot"
                 }]
             },
             {
@@ -540,6 +554,10 @@ var seasonData = {
                     "t": "15:30",
                     "n": "Fishing Extravaganza",
                     "f": 0
+                },{
+                    "i": "https://i.imgur.com/FqGcWOC.jpg",
+                    "t": "17:00",
+                    "n": "2x Dungeon Loot"
                 }]
             },
             {
