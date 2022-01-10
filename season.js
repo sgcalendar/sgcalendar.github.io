@@ -506,9 +506,10 @@ var seasonData = {
             },
             {
                 "d": 24,
-                "i": "https://i.imgur.com/O6Irvei.png",
+                "i": "https://i.imgur.com/dAm7jFf.png",
                 "t": "16:00",
-                "n": "Metin Spawn"
+                "n": "Mining Party",
+                "f": 0
             },
             {
                 "d": 25,
