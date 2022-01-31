@@ -506,10 +506,9 @@ var seasonData = {
             },
             {
                 "d": 24,
-                "i": "https://i.imgur.com/dAm7jFf.png",
+                "i": "https://i.imgur.com/O6Irvei.png",
                 "t": "16:00",
-                "n": "Mining Party",
-                "f": 0
+                "n": "Metin Spawn"
             },
             {
                 "d": 25,
@@ -572,6 +571,282 @@ var seasonData = {
                 "i": "https://i.imgur.com/L2ey8n1.jpg",
                 "t": "16:00",
                 "n": "Tanaka Hunt"
+            }
+        ]
+    },
+    "12022": {
+        "y": 2022,
+        "m": 0,
+        "som": "https://i.imgur.com/rBg7za8.jpg",
+        "tc": "184d47",
+        "ec": "dc143c",
+        "days": [
+            
+            {
+                "d": 0,
+                "i": "./images/logo.png",
+                "g": null,
+                "t": null,
+                "n": ""
+            },
+            {
+                "d": 0,
+                "i": "./images/logo.png",
+                "g": null,
+                "t": null,
+                "n": ""
+            },
+            {
+                "d": 1,
+                "i": "https://i.imgur.com/IllUyVq.png",
+                "t": "16:00",
+                "n": "OX Event",
+                "f": 0
+            },
+            {
+                "d": 2,
+                "i": "https://i.imgur.com/zGm6lA5.png",
+                "t": "All Day",
+                "n": "Moonlight Box"
+            },
+            {
+                "d": 3,
+                "i": "https://i.imgur.com/IllUyVq.png",
+                "t": "20:00",
+                "n": "OX Event",
+                "f": 0
+            },
+            {
+                "d": 4,
+                "i": "https://i.imgur.com/O6Irvei.png",
+                "t": "16:00",
+                "n": "Metin Rain"
+            },
+            {
+                "d": 5,
+                "e": [{
+                    "i": "https://i.imgur.com/vOps4LD.jpg",
+                    "t": "16:00",
+                    "n": "20% vs Metin"
+                }, {
+                    "i": "https://i.imgur.com/SRFNp3n.png",
+                    "t": "15:30",
+                    "n": "Fishing Extravaganza",
+                    "f": 0
+                },
+                {
+                    "i": "https://i.imgur.com/vOps4LD.jpg",
+                    "t": "16:00",
+                    "n": "2x Metin Loot"
+                }]
+            },
+            {
+                "d": 6,
+                "i": "https://i.imgur.com/0G9HBw4.jpg",
+                "t": "15:00",
+                "n": "Global 20% Monster"
+            },
+            {
+                "d": 7,
+                "i": "https://i.imgur.com/dAm7jFf.png",
+                "t": "16:00",
+                "n": "Vein Spawn",
+                "f": 0
+            },
+            {
+                "d": 8,
+                "i": "https://i.imgur.com/IllUyVq.png",
+                "t": "16:00",
+                "n": "OX Event",
+                "f": 0
+            },
+            {
+                "d": 8,
+                "i": "https://i.imgur.com/fihlJd5.png",
+                "t": "16:00",
+                "n": "Gold Fever"
+            },
+            {
+                "d": 9,
+                e: [{
+                    "i": "https://i.imgur.com/IllUyVq.png",
+                    "t": "20:00",
+                    "n": "OX Event",
+                    "f": 0
+                },
+                {
+                    "i": "https://i.imgur.com/zGm6lA5.png",
+                    "t": "All Day",
+                    "n": "Moonlight Box"
+                }]
+            },
+            {
+                "d": 10,
+                "i": "https://i.imgur.com/CQMpPqr.png",
+                "t": "16:00",
+                "n": "Boss Spawn"
+            },
+            {
+                "d": 11,
+                "e": [{
+                    "i": "https://i.imgur.com/vOps4LD.jpg",
+                    "t": "16:00",
+                    "n": "20% vs Metin"
+                }, {
+                    "i": "https://i.imgur.com/SRFNp3n.png",
+                    "t": "15:30",
+                    "n": "Fishing Extravaganza",
+                    "f": 0
+                },{
+                    "i": "https://i.imgur.com/FqGcWOC.jpg",
+                    "t": "17:00",
+                    "n": "2x Dungeon Loot"
+                }]
+            },
+            {
+                "d": 12,
+                "i": "https://i.imgur.com/0G9HBw4.jpg",
+                "t": "15:00",
+                "n": "Global 20% Monster"
+            },
+            {
+                "d": 13,
+                "e": [{
+                    "i": "https://i.imgur.com/L2ey8n1.jpg",
+                    "t": "16:00",
+                    "n": "Tanaka Hunt"
+                },
+                {
+                    "i": "https://i.imgur.com/zGm6lA5.png",
+                    "t": "All Day",
+                    "n": "Moonlight Box"
+                }]
+            },
+            {
+                "d": 14,
+                "i": "https://i.imgur.com/IllUyVq.png",
+                "t": "16:00",
+                "n": "OX Event",
+                "f": 0
+            },
+            {
+                "d": 15,
+                "i": "https://i.imgur.com/FqGcWOC.jpg",
+                "t": "16:00",
+                "n": "2x Dungeon Loot"
+            },
+            {
+                "d": 16,
+                "i": "https://i.imgur.com/IllUyVq.png",
+                "t": "20:00",
+                "n": "OX Event",
+                "f": 0
+            },
+            {
+                "d": 17,
+                "i": "https://i.imgur.com/O6Irvei.png",
+                "t": "16:00",
+                "n": "Metin Rain"
+            },
+            {
+                "d": 18,
+                "e": [{
+                    "i": "https://i.imgur.com/vOps4LD.jpg",
+                    "t": "16:00",
+                    "n": "20% vs Metin"
+                }, {
+                    "i": "https://i.imgur.com/SRFNp3n.png",
+                    "t": "15:30",
+                    "n": "Fishing Extravaganza",
+                    "f": 0
+                },
+                {
+                    "i": "https://i.imgur.com/vOps4LD.jpg",
+                    "t": "16:00",
+                    "n": "2x Metin Loot"
+                }]
+            },
+            {
+                "d": 19,
+                "i": "https://i.imgur.com/0G9HBw4.jpg",
+                "t": "15:00",
+                "n": "Global 20% Monster"
+            },
+            {
+                "d": 20,
+                "i": "https://i.imgur.com/dAm7jFf.png",
+                "t": "16:00",
+                "n": "Vein Spawn",
+                "f": 0
+            },
+            {
+                "d": 21,
+                "e": [{
+                    "i": "https://i.imgur.com/IllUyVq.png",
+                    "t": "16:00",
+                    "n": "OX Event",
+                    "f": 0
+                },
+                {
+                    "i": "https://i.imgur.com/zGm6lA5.png",
+                    "t": "All Day",
+                    "n": "Moonlight Box"
+                }]
+            },
+            {
+                "d": 22,
+                "i": "https://i.imgur.com/vOps4LD.jpg",
+                "t": "16:00",
+                "n": "2x Metin Loot"
+            },
+            {
+                "d": 23,
+                "i": "https://i.imgur.com/IllUyVq.png",
+                "t": "20:00",
+                "n": "OX Event",
+                "f": 0
+            },
+            {
+                "d": 24,
+                "i": "https://i.imgur.com/CQMpPqr.png",
+                "t": "16:00",
+                "n": "Boss Spawn"
+            },
+            {
+                "d": 25,
+                "e": [{
+                    "i": "https://i.imgur.com/vOps4LD.jpg",
+                    "t": "16:00",
+                    "n": "20% vs Metin"
+                }, {
+                    "i": "https://i.imgur.com/SRFNp3n.png",
+                    "t": "15:30",
+                    "n": "Fishing Extravaganza",
+                    "f": 0
+                },{
+                    "i": "https://i.imgur.com/FqGcWOC.jpg",
+                    "t": "17:00",
+                    "n": "2x Dungeon Loot"
+                }]
+            },
+            {
+                "d": 26,
+                "i": "https://i.imgur.com/0G9HBw4.jpg",
+                "t": "15:00",
+                "n": "Global 20% Monster"
+            },
+            {
+                "d": 27,
+                "i": "https://i.imgur.com/L2ey8n1.jpg",
+                "t": "16:00",
+                "n": "Tanaka Hunt"
+            },
+            {
+                "d": 28,
+                "i": "https://i.imgur.com/IllUyVq.png",
+                "t": "16:00",
+                "n": "OX Event",
+                "f": 0
             }
         ]
     }
