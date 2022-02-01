@@ -661,13 +661,13 @@ var seasonData = {
                 "f": 0
             },
             {
-                "d": 8,
+                "d": 9,
                 "i": "https://i.imgur.com/fihlJd5.png",
                 "t": "16:00",
                 "n": "Gold Fever"
             },
             {
-                "d": 9,
+                "d": 10,
                 e: [{
                     "i": "https://i.imgur.com/IllUyVq.png",
                     "t": "20:00",
@@ -681,13 +681,13 @@ var seasonData = {
                 }]
             },
             {
-                "d": 10,
+                "d": 11,
                 "i": "https://i.imgur.com/CQMpPqr.png",
                 "t": "16:00",
                 "n": "Boss Spawn"
             },
             {
-                "d": 11,
+                "d": 12,
                 "e": [{
                     "i": "https://i.imgur.com/vOps4LD.jpg",
                     "t": "16:00",
@@ -704,13 +704,13 @@ var seasonData = {
                 }]
             },
             {
-                "d": 12,
+                "d": 13,
                 "i": "https://i.imgur.com/0G9HBw4.jpg",
                 "t": "15:00",
                 "n": "Global 20% Monster"
             },
             {
-                "d": 13,
+                "d": 14,
                 "e": [{
                     "i": "https://i.imgur.com/L2ey8n1.jpg",
                     "t": "16:00",
@@ -723,33 +723,33 @@ var seasonData = {
                 }]
             },
             {
-                "d": 14,
+                "d": 15,
                 "i": "https://i.imgur.com/IllUyVq.png",
                 "t": "16:00",
                 "n": "OX Event",
                 "f": 0
             },
             {
-                "d": 15,
+                "d": 16,
                 "i": "https://i.imgur.com/FqGcWOC.jpg",
                 "t": "16:00",
                 "n": "2x Dungeon Loot"
             },
             {
-                "d": 16,
+                "d": 17,
                 "i": "https://i.imgur.com/IllUyVq.png",
                 "t": "20:00",
                 "n": "OX Event",
                 "f": 0
             },
             {
-                "d": 17,
+                "d": 18,
                 "i": "https://i.imgur.com/O6Irvei.png",
                 "t": "16:00",
                 "n": "Metin Rain"
             },
             {
-                "d": 18,
+                "d": 19,
                 "e": [{
                     "i": "https://i.imgur.com/vOps4LD.jpg",
                     "t": "16:00",
@@ -767,20 +767,20 @@ var seasonData = {
                 }]
             },
             {
-                "d": 19,
+                "d": 20,
                 "i": "https://i.imgur.com/0G9HBw4.jpg",
                 "t": "15:00",
                 "n": "Global 20% Monster"
             },
             {
-                "d": 20,
+                "d": 21,
                 "i": "https://i.imgur.com/dAm7jFf.png",
                 "t": "16:00",
                 "n": "Vein Spawn",
                 "f": 0
             },
             {
-                "d": 21,
+                "d": 22,
                 "e": [{
                     "i": "https://i.imgur.com/IllUyVq.png",
                     "t": "16:00",
@@ -794,26 +794,26 @@ var seasonData = {
                 }]
             },
             {
-                "d": 22,
+                "d": 23,
                 "i": "https://i.imgur.com/vOps4LD.jpg",
                 "t": "16:00",
                 "n": "2x Metin Loot"
             },
             {
-                "d": 23,
+                "d": 24,
                 "i": "https://i.imgur.com/IllUyVq.png",
                 "t": "20:00",
                 "n": "OX Event",
                 "f": 0
             },
             {
-                "d": 24,
+                "d": 25,
                 "i": "https://i.imgur.com/CQMpPqr.png",
                 "t": "16:00",
                 "n": "Boss Spawn"
             },
             {
-                "d": 25,
+                "d": 26,
                 "e": [{
                     "i": "https://i.imgur.com/vOps4LD.jpg",
                     "t": "16:00",
@@ -830,23 +830,16 @@ var seasonData = {
                 }]
             },
             {
-                "d": 26,
+                "d": 27,
                 "i": "https://i.imgur.com/0G9HBw4.jpg",
                 "t": "15:00",
                 "n": "Global 20% Monster"
             },
             {
-                "d": 27,
+                "d": 28,
                 "i": "https://i.imgur.com/L2ey8n1.jpg",
                 "t": "16:00",
                 "n": "Tanaka Hunt"
-            },
-            {
-                "d": 28,
-                "i": "https://i.imgur.com/IllUyVq.png",
-                "t": "16:00",
-                "n": "OX Event",
-                "f": 0
             }
         ]
     }
