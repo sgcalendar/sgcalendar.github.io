@@ -994,13 +994,13 @@ var jsonData = {
                 "f": 0
             },
             {
-                "d": 15,
+                "d": 29,
                 "i": "./images/logo.png",
                 "t": "16:00",
-                "n": "Hunter's Hour"
+                "n": "Horse Race"
             },
             {
-                "d": 16,
+                "d": 30,
                 "e": [{
                     "i": "https://i.imgur.com/5HTFviS.png",
                     "t": "All Day",
